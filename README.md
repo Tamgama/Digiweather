@@ -16,5 +16,7 @@ In this final phase, the web application's frontend will be constructed. The use
 The repository is organized as follows:
 
 /phase1: Contains code corresponding to Phase 1.
+
 /phase2: Includes backend code for data integration.
+
 /phase3: This directory houses the frontend code of the web application.
