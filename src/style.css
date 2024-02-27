@@ -1,11 +1,3 @@
-body {
-    font-family: Tahoma, sans-serif;
-    font-size: 18px;
-    color: rgb(42, 86, 180);
-    background-color: rgb(152, 198, 219);
-    height: 60px;
-
-}
 
 header img {
     background-size: contain;
@@ -15,13 +7,38 @@ header img {
     width: auto;
 }
 
-.button {
-    color: rgb(57, 111, 190);
-    border: solid;
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: rgb(152, 198, 219);
+    height: 60px;
 }
 
-.button:hover {
+h2 {
+    color: rgb(42, 86, 180);
+    font-size: 26px;
+
+}
+
+p {
+    color:black;
+    font-size: 18px;
+    
+}
+
+.button--git {
+    color: rgb(57, 111, 190);
+}
+
+.button--git:hover {
     background-color: rgb(235, 213, 117);
     color: black;
-    border-color: black;
+}
+
+.button--up {
+    color: rgb(57, 111, 190);
+}
+
+.button--up:hover {
+    background-color: rgb(235, 213, 117);
+    color: black;
 }
