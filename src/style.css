@@ -14,3 +14,14 @@ header img {
     height: 150px;
     width: auto;
 }
+
+.button {
+    color: rgb(57, 111, 190);
+    border: solid;
+}
+
+.button:hover {
+    background-color: rgb(235, 213, 117);
+    color: black;
+    border-color: black;
+}
