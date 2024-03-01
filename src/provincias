@@ -1,0 +1,53 @@
+,CODPROV,NOMBRE_PROVINCIA,CODAUTON,COMUNIDAD_CIUDAD_AUTONOMA,CAPITAL_PROVINCIA
+0,15,A Coruña,12,Galicia,A Coruña
+1,03,Alacant/Alicante,10,Comunitat Valenciana,Alicante/Alacant
+2,02,Albacete,08,Castilla-La Mancha,Albacete
+3,04,Almería,01,Andalucía,Almería
+4,01,Araba/Álava,16,País Vasco/Euskadi,Vitoria-Gasteiz
+5,33,Asturias,03,Principado de Asturias,Oviedo
+6,05,Ávila,07,Castilla y León,Ávila
+7,06,Badajoz,11,Extremadura,Badajoz
+8,08,Barcelona,09,Cataluña/Catalunya,Barcelona
+9,48,Bizkaia,16,País Vasco/Euskadi,Bilbao
+10,09,Burgos,07,Castilla y León,Burgos
+11,10,Cáceres,11,Extremadura,Cáceres
+12,11,Cádiz,01,Andalucía,Cádiz
+13,39,Cantabria,06,Cantabria,Santander
+14,12,Castelló/Castellón,10,Comunitat Valenciana,Castellón de la Plana/Castelló de la Plana
+15,51,Ceuta,18,Ciudad Autónoma de Ceuta,Ceuta
+16,13,Ciudad Real,08,Castilla-La Mancha,Ciudad Real
+17,14,Córdoba,01,Andalucía,Córdoba
+18,16,Cuenca,08,Castilla-La Mancha,Cuenca
+19,20,Gipuzkoa,16,País Vasco/Euskadi,Donostia/San Sebastián
+20,17,Girona,09,Cataluña/Catalunya,Girona
+21,18,Granada,01,Andalucía,Granada
+22,19,Guadalajara,08,Castilla-La Mancha,Guadalajara
+23,21,Huelva,01,Andalucía,Huelva
+24,22,Huesca,02,Aragón,Huesca
+25,07,Illes Balears,04,Illes Balears,Palma de Mallorca
+26,23,Jaén,01,Andalucía,Jaén
+27,26,La Rioja,17,La Rioja,Logroño
+28,35,Las Palmas,05,Canarias,Las Palmas de Gran Canaria
+29,24,León,07,Castilla y León,León
+30,25,Lleida,09,Cataluña/Catalunya,Lleida
+31,27,Lugo,12,Galicia,Lugo
+32,28,Madrid,13,Comunidad de Madrid,Madrid
+33,29,Málaga,01,Andalucía,Málaga
+34,52,Melilla,19,Ciudad Autónoma de Melilla,Melilla
+35,30,Murcia,14,Región de Murcia,Murcia
+36,31,Navarra,15,Comunidad Foral de Navarra,Pamplona/Iruña
+37,32,Ourense,12,Galicia,Ourense
+38,34,Palencia,07,Castilla y León,Palencia
+39,36,Pontevedra,12,Galicia,Pontevedra
+40,37,Salamanca,07,Castilla y León,Salamanca
+41,38,Santa Cruz de Tenerife,05,Canarias,Santa Cruz de Tenerife
+42,40,Segovia,07,Castilla y León,Segovia
+43,41,Sevilla,01,Andalucía,Sevilla
+44,42,Soria,07,Castilla y León,Soria
+45,43,Tarragona,09,Cataluña/Catalunya,Tarragona
+46,44,Teruel,02,Aragón,Teruel
+47,45,Toledo,08,Castilla-La Mancha,Toledo
+48,46,València/Valencia,10,Comunitat Valenciana,Valencia
+49,47,Valladolid,07,Castilla y León,Valladolid
+50,49,Zamora,07,Castilla y León,Zamora
+51,50,Zaragoza,02,Aragón,Zaragoza

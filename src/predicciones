@@ -1,0 +1,1687 @@
+,fecha,precipitacion,cielo,viento,temp_min,temp_max,municipio,provincia
+0,2024-02-29T00:00:00,0,,0,6,16,Okondo,Araba/Álava
+1,2024-02-29T00:00:00,0,,0,2,12,Añana,Araba/Álava
+2,2024-02-29T00:00:00,0,,0,3,12,Alegría-Dulantzi,Araba/Álava
+3,2024-02-29T00:00:00,0,,0,4,15,Elciego,Araba/Álava
+4,2024-02-29T00:00:00,0,,0,5,15,Artziniega,Araba/Álava
+5,2024-02-29T00:00:00,0,,0,2,12,Zuia,Araba/Álava
+6,2024-02-29T00:00:00,0,,0,4,15,Moreda de Álava/Moreda Araba,Araba/Álava
+7,2024-02-29T00:00:00,0,,0,3,14,Elvillar/Bilar,Araba/Álava
+8,2024-02-29T00:00:00,0,,0,3,14,Laguardia,Araba/Álava
+9,2024-02-29T00:00:00,0,,0,3,13,Elburgo/Burgelu,Araba/Álava
+10,2024-02-29T00:00:00,0,,0,2,12,Lagrán,Araba/Álava
+11,2024-02-29T00:00:00,0,,0,5,15,Aramaio,Araba/Álava
+12,2024-02-29T00:00:00,0,,0,3,13,Yécora/Iekora,Araba/Álava
+13,2024-02-29T00:00:00,0,,0,2,13,Campezo/Kanpezu,Araba/Álava
+14,2024-02-29T00:00:00,0,,0,4,14,Villabuena de Álava/Eskuernaga,Araba/Álava
+15,2024-02-29T00:00:00,0,,0,3,13,Erriberagoitia/Ribera Alta,Araba/Álava
+16,2024-02-29T00:00:00,0,,0,4,15,Oyón-Oion,Araba/Álava
+17,2024-02-29T00:00:00,0,,0,3,12,Barrundia,Araba/Álava
+18,2024-02-29T00:00:00,0,,0,2,12,Iruraiz-Gauna,Araba/Álava
+19,2024-02-29T00:00:00,0,,0,3,14,Ribera Baja/Erribera Beitia,Araba/Álava
+20,2024-02-29T00:00:00,0,,0,3,14,Armiñón,Araba/Álava
+21,2024-02-29T00:00:00,0,,0,2,13,Vitoria-Gasteiz,Araba/Álava
+22,2024-02-29T00:00:00,0,,0,3,14,Lanciego/Lantziego,Araba/Álava
+23,2024-02-29T00:00:00,0,,0,3,13,Legutio,Araba/Álava
+24,2024-02-29T00:00:00,0,,0,2,12,Peñacerrada-Urizaharra,Araba/Álava
+25,2024-02-29T00:00:00,0,,0,6,16,Okondo,Araba/Álava
+26,2024-02-29T00:00:00,0,,0,6,16,Okondo,Araba/Álava
+27,2024-02-29T00:00:00,0,,0,6,16,Okondo,Araba/Álava
+28,2024-02-29T00:00:00,0,,0,2,12,Añana,Araba/Álava
+29,2024-02-29T00:00:00,0,,0,3,12,Alegría-Dulantzi,Araba/Álava
+30,2024-02-29T00:00:00,0,,0,4,15,Elciego,Araba/Álava
+31,2024-02-29T00:00:00,0,,0,5,15,Artziniega,Araba/Álava
+32,2024-02-29T00:00:00,0,,0,2,12,Zuia,Araba/Álava
+33,2024-02-29T00:00:00,0,,0,4,15,Moreda de Álava/Moreda Araba,Araba/Álava
+34,2024-02-29T00:00:00,0,,0,3,14,Elvillar/Bilar,Araba/Álava
+35,2024-02-29T00:00:00,0,,0,3,14,Laguardia,Araba/Álava
+36,2024-02-29T00:00:00,0,,0,3,13,Elburgo/Burgelu,Araba/Álava
+37,2024-02-29T00:00:00,0,,0,2,12,Lagrán,Araba/Álava
+38,2024-02-29T00:00:00,0,,0,5,15,Aramaio,Araba/Álava
+39,2024-02-29T00:00:00,0,,0,3,13,Yécora/Iekora,Araba/Álava
+40,2024-02-29T00:00:00,0,,0,2,13,Campezo/Kanpezu,Araba/Álava
+41,2024-02-29T00:00:00,0,,0,4,14,Villabuena de Álava/Eskuernaga,Araba/Álava
+42,2024-02-29T00:00:00,0,,0,3,13,Erriberagoitia/Ribera Alta,Araba/Álava
+43,2024-02-29T00:00:00,0,,0,4,15,Oyón-Oion,Araba/Álava
+44,2024-02-29T00:00:00,0,,0,3,12,Barrundia,Araba/Álava
+45,2024-02-29T00:00:00,0,,0,2,12,Iruraiz-Gauna,Araba/Álava
+46,2024-02-29T00:00:00,0,,0,3,14,Ribera Baja/Erribera Beitia,Araba/Álava
+47,2024-02-29T00:00:00,0,,0,3,14,Armiñón,Araba/Álava
+48,2024-02-29T00:00:00,0,,0,2,13,Vitoria-Gasteiz,Araba/Álava
+49,2024-02-29T00:00:00,0,,0,3,14,Lanciego/Lantziego,Araba/Álava
+50,2024-02-29T00:00:00,0,,0,3,13,Legutio,Araba/Álava
+51,2024-02-29T00:00:00,0,,0,2,12,Peñacerrada-Urizaharra,Araba/Álava
+52,2024-02-29T00:00:00,0,,0,3,13,Leza,Araba/Álava
+53,2024-02-29T00:00:00,0,,0,3,12,San Millán/Donemiliaga,Araba/Álava
+54,2024-02-29T00:00:00,0,,0,6,16,Laudio/Llodio,Araba/Álava
+55,2024-02-29T00:00:00,0,,0,3,14,Berantevilla,Araba/Álava
+56,2024-02-29T00:00:00,0,,0,4,15,Amurrio,Araba/Álava
+57,2024-02-29T00:00:00,0,,0,1,11,Bernedo,Araba/Álava
+58,2024-02-29T00:00:00,0,,0,4,15,Lapuebla de Labarca,Araba/Álava
+59,2024-02-29T00:00:00,0,,0,4,14,Ayala/Aiara,Araba/Álava
+60,2024-02-29T00:00:00,0,,0,4,14,Navaridas,Araba/Álava
+61,2024-02-29T00:00:00,0,,0,3,14,Zambrana,Araba/Álava
+62,2024-02-29T00:00:00,0,,0,3,14,Lantarón,Araba/Álava
+63,2024-02-29T00:00:00,0,,0,3,12,Zalduondo,Araba/Álava
+64,2024-02-29T00:00:00,0,,0,3,14,Samaniego,Araba/Álava
+65,2024-02-29T00:00:00,0,,0,3,12,Agurain/Salvatierra,Araba/Álava
+66,2024-02-29T00:00:00,0,,0,2,12,Zigoitia,Araba/Álava
+67,2024-02-29T00:00:00,0,,0,3,12,Asparrena,Araba/Álava
+68,2024-02-29T00:00:00,0,,0,1,11,Harana/Valle de Arana,Araba/Álava
+69,2024-02-29T00:00:00,0,,0,3,13,Iruña Oka/Iruña de Oca,Araba/Álava
+70,2024-02-29T00:00:00,0,,0,3,14,Labastida/Bastida,Araba/Álava
+71,2024-02-29T00:00:00,0,,0,2,12,Urkabustaiz,Araba/Álava
+72,2024-02-29T00:00:00,0,,0,2,12,Kuartango,Araba/Álava
+73,2024-02-29T00:00:00,0,,0,2,12,Arraia-Maeztu,Araba/Álava
+74,2024-02-29T00:00:00,0,,0,3,13,Arratzua-Ubarrundia,Araba/Álava
+75,2024-02-29T00:00:00,0,,0,3,13,Valdegovía/Gaubea,Araba/Álava
+76,2024-02-29T00:00:00,0,,0,4,15,Baños de Ebro/Mañueta,Araba/Álava
+77,2024-02-29T00:00:00,0,,0,2,13,Kripan,Araba/Álava
+78,2024-02-29T00:00:00,0,,0,4,18,Caudete,Albacete
+79,2024-02-29T00:00:00,0,,0,4,17,Liétor,Albacete
+80,2024-02-29T00:00:00,0,,0,6,16,Okondo,Araba/Álava
+81,2024-02-29T00:00:00,0,,0,2,12,Añana,Araba/Álava
+82,2024-02-29T00:00:00,0,,0,3,12,Alegría-Dulantzi,Araba/Álava
+83,2024-02-29T00:00:00,0,,0,4,15,Elciego,Araba/Álava
+84,2024-02-29T00:00:00,0,,0,5,15,Artziniega,Araba/Álava
+85,2024-02-29T00:00:00,0,,0,2,12,Zuia,Araba/Álava
+86,2024-02-29T00:00:00,0,,0,4,15,Moreda de Álava/Moreda Araba,Araba/Álava
+87,2024-02-29T00:00:00,0,,0,3,14,Elvillar/Bilar,Araba/Álava
+88,2024-02-29T00:00:00,0,,0,3,14,Laguardia,Araba/Álava
+89,2024-02-29T00:00:00,0,,0,3,13,Elburgo/Burgelu,Araba/Álava
+90,2024-02-29T00:00:00,0,,0,2,12,Lagrán,Araba/Álava
+91,2024-02-29T00:00:00,0,,0,5,15,Aramaio,Araba/Álava
+92,2024-02-29T00:00:00,0,,0,3,13,Yécora/Iekora,Araba/Álava
+93,2024-02-29T00:00:00,0,,0,2,13,Campezo/Kanpezu,Araba/Álava
+94,2024-02-29T00:00:00,0,,0,4,14,Villabuena de Álava/Eskuernaga,Araba/Álava
+95,2024-02-29T00:00:00,0,,0,3,13,Erriberagoitia/Ribera Alta,Araba/Álava
+96,2024-02-29T00:00:00,0,,0,4,15,Oyón-Oion,Araba/Álava
+97,2024-02-29T00:00:00,0,,0,3,12,Barrundia,Araba/Álava
+98,2024-02-29T00:00:00,0,,0,2,12,Iruraiz-Gauna,Araba/Álava
+99,2024-02-29T00:00:00,0,,0,3,14,Ribera Baja/Erribera Beitia,Araba/Álava
+100,2024-02-29T00:00:00,0,,0,3,14,Armiñón,Araba/Álava
+101,2024-02-29T00:00:00,0,,0,2,13,Vitoria-Gasteiz,Araba/Álava
+102,2024-02-29T00:00:00,0,,0,3,14,Lanciego/Lantziego,Araba/Álava
+103,2024-02-29T00:00:00,0,,0,3,13,Legutio,Araba/Álava
+104,2024-02-29T00:00:00,0,,0,2,12,Peñacerrada-Urizaharra,Araba/Álava
+105,2024-02-29T00:00:00,0,,0,3,13,Leza,Araba/Álava
+106,2024-02-29T00:00:00,0,,0,3,12,San Millán/Donemiliaga,Araba/Álava
+107,2024-02-29T00:00:00,0,,0,6,16,Laudio/Llodio,Araba/Álava
+108,2024-02-29T00:00:00,0,,0,3,14,Berantevilla,Araba/Álava
+109,2024-02-29T00:00:00,0,,0,4,15,Amurrio,Araba/Álava
+110,2024-02-29T00:00:00,0,,0,1,11,Bernedo,Araba/Álava
+111,2024-02-29T00:00:00,0,,0,4,15,Lapuebla de Labarca,Araba/Álava
+112,2024-02-29T00:00:00,0,,0,4,14,Ayala/Aiara,Araba/Álava
+113,2024-02-29T00:00:00,0,,0,4,14,Navaridas,Araba/Álava
+114,2024-02-29T00:00:00,0,,0,3,14,Zambrana,Araba/Álava
+115,2024-02-29T00:00:00,0,,0,3,14,Lantarón,Araba/Álava
+116,2024-02-29T00:00:00,0,,0,3,12,Zalduondo,Araba/Álava
+117,2024-02-29T00:00:00,0,,0,3,14,Samaniego,Araba/Álava
+118,2024-02-29T00:00:00,0,,0,3,12,Agurain/Salvatierra,Araba/Álava
+119,2024-02-29T00:00:00,0,,0,2,12,Zigoitia,Araba/Álava
+120,2024-02-29T00:00:00,0,,0,3,12,Asparrena,Araba/Álava
+121,2024-02-29T00:00:00,0,,0,1,11,Harana/Valle de Arana,Araba/Álava
+122,2024-02-29T00:00:00,0,,0,3,13,Iruña Oka/Iruña de Oca,Araba/Álava
+123,2024-02-29T00:00:00,0,,0,3,14,Labastida/Bastida,Araba/Álava
+124,2024-02-29T00:00:00,0,,0,2,12,Urkabustaiz,Araba/Álava
+125,2024-02-29T00:00:00,0,,0,2,12,Kuartango,Araba/Álava
+126,2024-02-29T00:00:00,0,,0,2,12,Arraia-Maeztu,Araba/Álava
+127,2024-02-29T00:00:00,0,,0,3,13,Arratzua-Ubarrundia,Araba/Álava
+128,2024-02-29T00:00:00,0,,0,3,13,Valdegovía/Gaubea,Araba/Álava
+129,2024-02-29T00:00:00,0,,0,4,15,Baños de Ebro/Mañueta,Araba/Álava
+130,2024-02-29T00:00:00,0,,0,2,13,Kripan,Araba/Álava
+131,2024-02-29T00:00:00,0,,0,4,18,Caudete,Albacete
+132,2024-02-29T00:00:00,0,,0,4,17,Liétor,Albacete
+133,2024-02-29T00:00:00,0,,0,1,14,Bienservida,Albacete
+134,2024-02-29T00:00:00,0,,0,4,18,Villatoya,Albacete
+135,2024-02-29T00:00:00,0,,0,2,16,Minaya,Albacete
+136,2024-02-29T00:00:00,0,,0,0,13,Higueruela,Albacete
+137,2024-02-29T00:00:00,0,,0,2,16,Valdeganga,Albacete
+138,2024-02-29T00:00:00,0,,0,2,16,Casas de Ves,Albacete
+139,2024-02-29T00:00:00,0,,0,5,17,Elche de la Sierra,Albacete
+140,2024-02-29T00:00:00,0,,0,2,16,Almansa,Albacete
+141,2024-02-29T00:00:00,0,,0,2,16,"Roda, La",Albacete
+142,2024-02-29T00:00:00,0,,0,2,15,Chinchilla de Monte-Aragón,Albacete
+143,2024-02-29T00:00:00,0,,0,1,14,Hoya-Gonzalo,Albacete
+144,2024-02-29T00:00:00,0,,0,2,16,Cenizate,Albacete
+145,2024-02-29T00:00:00,0,,0,-1,13,Robledo,Albacete
+146,2024-02-29T00:00:00,0,,0,2,14,Casas de Lázaro,Albacete
+147,2024-02-29T00:00:00,0,,0,2,16,Fuensanta,Albacete
+148,2024-02-29T00:00:00,0,,0,0,13,Masegoso,Albacete
+149,2024-02-29T00:00:00,0,,0,2,12,Nerpio,Albacete
+150,2024-02-29T00:00:00,0,,0,0,15,Villapalacios,Albacete
+151,2024-02-29T00:00:00,0,,0,2,14,Alpera,Albacete
+152,2024-02-29T00:00:00,0,,0,2,16,Jorquera,Albacete
+153,2024-02-29T00:00:00,0,,0,2,16,Casas-Ibáñez,Albacete
+154,2024-02-29T00:00:00,0,,0,0,14,Salobre,Albacete
+155,2024-02-29T00:00:00,0,,0,0,12,Paterna del Madera,Albacete
+156,2024-02-29T00:00:00,0,,0,4,18,Albatana,Albacete
+157,2024-02-29T00:00:00,0,,0,1,14,Pétrola,Albacete
+158,2024-02-29T00:00:00,0,,0,5,18,Hellín,Albacete
+159,2024-02-29T00:00:00,0,,0,2,16,Abengibre,Albacete
+160,2024-02-29T00:00:00,0,,0,3,15,Pozuelo,Albacete
+161,2024-02-29T00:00:00,0,,0,3,15,Pozohondo,Albacete
+162,2024-02-29T00:00:00,0,,0,3,16,Ayna,Albacete
+163,2024-02-29T00:00:00,0,,0,2,16,Navas de Jorquera,Albacete
+164,2024-02-29T00:00:00,0,,0,3,15,Pozo Cañada,Albacete
+165,2024-02-29T00:00:00,0,,0,2,16,Fuentealbilla,Albacete
+166,2024-02-29T00:00:00,0,,0,3,16,"Gineta, La",Albacete
+167,2024-02-29T00:00:00,0,,0,2,16,Fuente-Álamo,Albacete
+168,2024-02-29T00:00:00,0,,0,2,17,Albacete,Albacete
+169,2024-02-29T00:00:00,0,,0,5,16,Socovos,Albacete
+170,2024-02-29T00:00:00,0,,0,8,18,"Campello, el",Alacant/Alicante
+171,2024-02-29T00:00:00,0,,0,8,23,Benejúzar,Alacant/Alicante
+172,2024-02-29T00:00:00,0,,0,9,18,"Alfàs del Pi, l'",Alacant/Alicante
+173,2024-02-29T00:00:00,0,,0,6,17,Tàrbena,Alacant/Alicante
+174,2024-02-29T00:00:00,0,,0,3,16,Famorca,Alacant/Alicante
+175,2024-02-29T00:00:00,0,,0,3,18,Beneixama,Alacant/Alicante
+176,2024-02-29T00:00:00,0,,0,5,20,Muro de Alcoy,Alacant/Alicante
+177,2024-02-29T00:00:00,0,,0,5,17,Relleu,Alacant/Alicante
+178,2024-02-29T00:00:00,0,,0,2,18,Cañada,Alacant/Alicante
+179,2024-02-29T00:00:00,0,,0,7,19,Murla,Alacant/Alicante
+180,2024-02-29T00:00:00,0,,0,8,23,Redován,Alacant/Alicante
+181,2024-02-29T00:00:00,0,,0,7,18,Callosa d'en Sarrià,Alacant/Alicante
+182,2024-02-29T00:00:00,0,,0,8,23,Callosa de Segura,Alacant/Alicante
+183,2024-02-29T00:00:00,0,,0,8,23,Jacarilla,Alacant/Alicante
+184,2024-02-29T00:00:00,0,,0,8,23,Algorfa,Alacant/Alicante
+185,2024-02-29T00:00:00,0,,0,3,17,Benasau,Alacant/Alicante
+186,2024-02-29T00:00:00,0,,0,5,19,Algueña,Alacant/Alicante
+187,2024-02-29T00:00:00,0,,0,4,17,Tollos,Alacant/Alicante
+188,2024-02-29T00:00:00,0,,0,8,24,Rafal,Alacant/Alicante
+189,2024-02-29T00:00:00,0,,0,8,24,Catral,Alacant/Alicante
+190,2024-02-29T00:00:00,0,,0,7,18,Polop,Alacant/Alicante
+191,2024-02-29T00:00:00,0,,0,5,21,Beniarrés,Alacant/Alicante
+192,2024-02-29T00:00:00,0,,0,8,23,Almoradí,Alacant/Alicante
+193,2024-02-29T00:00:00,0,,0,7,19,Xaló,Alacant/Alicante
+194,2024-02-29T00:00:00,0,,0,5,20,Planes,Alacant/Alicante
+195,2024-02-29T00:00:00,0,,0,3,18,Salinas,Alacant/Alicante
+196,2024-02-29T00:00:00,0,,0,6,18,"Benitachell/Poble Nou de Benitatxell, el",Alacant/Alicante
+197,2024-02-29T00:00:00,0,,0,7,17,Benissa,Alacant/Alicante
+198,2024-02-29T00:00:00,0,,0,3,18,"Campo de Mirra/Camp de Mirra, el",Alacant/Alicante
+199,2024-02-29T00:00:00,0,,0,9,20,Sagra,Alacant/Alicante
+200,2024-02-29T00:00:00,0,,0,9,20,Benimeli,Alacant/Alicante
+201,2024-02-29T00:00:00,0,,0,4,18,Benimassot,Alacant/Alicante
+202,2024-02-29T00:00:00,0,,0,9,20,"Ràfol d'Almúnia, el",Alacant/Alicante
+203,2024-02-29T00:00:00,0,,0,5,20,Benimarfull,Alacant/Alicante
+204,2024-02-29T00:00:00,0,,0,5,17,Benimantell,Alacant/Alicante
+205,2024-02-29T00:00:00,0,,0,4,19,Benillup,Alacant/Alicante
+206,2024-02-29T00:00:00,0,,0,4,18,Benilloba,Alacant/Alicante
+207,2024-02-29T00:00:00,0,,0,7,20,"Fondó de les Neus, el/Hondón de las Nieves",Alacant/Alicante
+208,2024-02-29T00:00:00,0,,0,5,20,Monóvar/Monòver,Alacant/Alicante
+209,2024-02-29T00:00:00,0,,0,4,16,Benifato,Alacant/Alicante
+210,2024-02-29T00:00:00,0,,0,2,16,Benifallim,Alacant/Alicante
+211,2024-02-29T00:00:00,0,,0,8,23,Formentera del Segura,Alacant/Alicante
+212,2024-02-29T00:00:00,0,,0,6,18,Teulada,Alacant/Alicante
+213,2024-02-29T00:00:00,0,,0,5,19,"Romana, la",Alacant/Alicante
+214,2024-02-29T00:00:00,0,,0,9,22,Rojales,Alacant/Alicante
+215,2024-02-29T00:00:00,0,,0,4,18,Tibi,Alacant/Alicante
+216,2024-02-29T00:00:00,0,,0,4,18,Quatretondeta,Alacant/Alicante
+217,2024-02-29T00:00:00,0,,0,9,19,"Poblets, els",Alacant/Alicante
+218,2024-02-29T00:00:00,0,,0,8,19,Benidoleig,Alacant/Alicante
+219,2024-02-29T00:00:00,0,,0,3,17,Ibi,Alacant/Alicante
+220,2024-02-29T00:00:00,0,,0,4,18,Almudaina,Alacant/Alicante
+221,2024-02-29T00:00:00,0,,0,4,18,Alfafara,Alacant/Alicante
+222,2024-02-29T00:00:00,0,,0,7,19,Benigembla,Alacant/Alicante
+223,2024-02-29T00:00:00,0,,0,10,17,Benidorm,Alacant/Alicante
+224,2024-02-29T00:00:00,0,,0,9,18,Calp,Alacant/Alicante
+225,2024-02-29T00:00:00,0,,0,7,18,"Vall de Laguar, la",Alacant/Alicante
+226,2024-02-29T00:00:00,0,,0,7,19,Gata de Gorgos,Alacant/Alicante
+227,2024-02-29T00:00:00,0,,0,10,19,Santa Pola,Alacant/Alicante
+228,2024-02-29T00:00:00,0,,0,10,19,Guardamar del Segura,Alacant/Alicante
+229,2024-02-29T00:00:00,0,,0,8,23,Cox,Alacant/Alicante
+230,2024-02-29T00:00:00,0,,0,6,16,Aigües,Alacant/Alicante
+231,2024-02-29T00:00:00,0,,0,5,20,Elda,Alacant/Alicante
+232,2024-02-29T00:00:00,0,,0,7,21,Elche/Elx,Alacant/Alicante
+233,2024-02-29T00:00:00,0,,0,5,17,Busot,Alacant/Alicante
+234,2024-02-29T00:00:00,0,,0,8,23,Bigastro,Alacant/Alicante
+235,2024-02-29T00:00:00,0,,0,7,19,Parcent,Alacant/Alicante
+236,2024-02-29T00:00:00,0,,0,7,18,Dénia,Alacant/Alicante
+237,2024-02-29T00:00:00,0,,0,1,17,Biar,Alacant/Alicante
+238,2024-02-29T00:00:00,0,,0,7,23,Crevillent,Alacant/Alicante
+239,2024-02-29T00:00:00,0,,0,7,18,Bolulla,Alacant/Alicante
+240,2024-02-29T00:00:00,0,,0,5,19,Cocentaina,Alacant/Alicante
+241,2024-02-29T00:00:00,0,,0,7,24,Albatera,Alacant/Alicante
+242,2024-02-29T00:00:00,0,,0,4,18,Millena,Alacant/Alicante
+243,2024-02-29T00:00:00,0,,0,8,24,Granja de Rocamora,Alacant/Alicante
+244,2024-02-29T00:00:00,0,,0,3,16,Agres,Alacant/Alicante
+245,2024-02-29T00:00:00,0,,0,6,20,Agost,Alacant/Alicante
+246,2024-02-29T00:00:00,0,,0,2,17,Banyeres de Mariola,Alacant/Alicante
+247,2024-02-29T00:00:00,0,,0,6,21,"Lorcha/Orxa, l'",Alacant/Alicante
+248,2024-02-29T00:00:00,0,,0,9,20,Ondara,Alacant/Alicante
+249,2024-02-29T00:00:00,0,,0,4,18,Balones,Alacant/Alicante
+250,2024-02-29T00:00:00,0,,0,3,17,Onil,Alacant/Alicante
+251,2024-02-29T00:00:00,0,,0,4,19,Gorga,Alacant/Alicante
+252,2024-02-29T00:00:00,0,,0,6,17,Senija,Alacant/Alicante
+253,2024-02-29T00:00:00,0,,0,8,20,Orba,Alacant/Alicante
+254,2024-02-29T00:00:00,0,,0,7,18,"Nucia, la",Alacant/Alicante
+255,2024-02-29T00:00:00,0,,0,6,17,Sella,Alacant/Alicante
+256,2024-02-29T00:00:00,0,,0,7,22,Orihuela,Alacant/Alicante
+257,2024-02-29T00:00:00,0,,0,3,19,Sax,Alacant/Alicante
+258,2024-02-29T00:00:00,0,,0,8,21,Novelda,Alacant/Alicante
+259,2024-02-29T00:00:00,0,,0,10,20,Torrevieja,Alacant/Alicante
+260,2024-02-29T00:00:00,0,,0,8,17,Finestrat,Alacant/Alicante
+261,2024-02-29T00:00:00,0,,0,8,18,Orxeta,Alacant/Alicante
+262,2024-02-29T00:00:00,0,,0,7,19,Llíber,Alacant/Alicante
+263,2024-02-29T00:00:00,0,,0,2,16,"Torremanzanas/Torre de les Maçanes, la",Alacant/Alicante
+264,2024-02-29T00:00:00,0,,0,7,18,Pedreguer,Alacant/Alicante
+265,2024-02-29T00:00:00,0,,0,3,15,Confrides,Alacant/Alicante
+266,2024-02-29T00:00:00,0,,0,7,19,Alcalalí,Alacant/Alicante
+267,2024-02-29T00:00:00,0,,0,6,19,Hondón de los Frailes,Alacant/Alicante
+268,2024-02-29T00:00:00,0,,0,7,18,"Vall d'Ebo, la",Alacant/Alicante
+269,2024-02-29T00:00:00,0,,0,2,18,Villena,Alacant/Alicante
+270,2024-02-29T00:00:00,0,,0,8,23,Dolores,Alacant/Alicante
+271,2024-02-29T00:00:00,0,,0,5,20,Gaianes,Alacant/Alicante
+272,2024-02-29T00:00:00,0,,0,9,21,Pego,Alacant/Alicante
+273,2024-02-29T00:00:00,0,,0,2,16,Penàguila,Alacant/Alicante
+274,2024-02-29T00:00:00,0,,0,7,18,Sant Joan d'Alacant,Alacant/Alicante
+275,2024-02-29T00:00:00,0,,0,6,19,Vall de Gallinera,Alacant/Alicante
+276,2024-02-29T00:00:00,0,,0,8,21,Monforte del Cid,Alacant/Alicante
+277,2024-02-29T00:00:00,0,,0,5,18,"Vall d'Alcalà, la",Alacant/Alicante
+278,2024-02-29T00:00:00,0,,0,9,20,"Atzúbia, l'",Alacant/Alicante
+279,2024-02-29T00:00:00,0,,0,1,16,Bayárcal,Almería
+280,2024-02-29T00:00:00,0,,0,3,16,Turrillas,Almería
+281,2024-02-29T00:00:00,0,,0,3,17,Castro de Filabres,Almería
+282,2024-02-29T00:00:00,0,,0,8,20,Albánchez,Almería
+283,2024-02-29T00:00:00,0,,0,10,23,Turre,Almería
+284,2024-02-29T00:00:00,0,,0,7,20,Instinción,Almería
+285,2024-02-29T00:00:00,0,,0,5,19,Alcolea,Almería
+286,2024-02-29T00:00:00,0,,0,7,21,Íllar,Almería
+287,2024-02-29T00:00:00,0,,0,7,20,Bédar,Almería
+288,2024-02-29T00:00:00,0,,0,7,22,Canjáyar,Almería
+289,2024-02-29T00:00:00,0,,0,11,21,Garrucha,Almería
+290,2024-02-29T00:00:00,0,,0,8,20,Albox,Almería
+291,2024-02-29T00:00:00,0,,0,2,14,Bacares,Almería
+292,2024-02-29T00:00:00,0,,0,6,18,Armuña de Almanzora,Almería
+293,2024-02-29T00:00:00,0,,0,5,18,Taberno,Almería
+294,2024-02-29T00:00:00,0,,0,6,21,Padules,Almería
+295,2024-02-29T00:00:00,0,,0,8,18,"Campello, el",Alacant/Alicante
+296,2024-02-29T00:00:00,0,,0,8,23,Benejúzar,Alacant/Alicante
+297,2024-02-29T00:00:00,0,,0,9,18,"Alfàs del Pi, l'",Alacant/Alicante
+298,2024-02-29T00:00:00,0,,0,6,17,Tàrbena,Alacant/Alicante
+299,2024-02-29T00:00:00,0,,0,3,16,Famorca,Alacant/Alicante
+300,2024-02-29T00:00:00,0,,0,3,18,Beneixama,Alacant/Alicante
+301,2024-02-29T00:00:00,0,,0,5,20,Muro de Alcoy,Alacant/Alicante
+302,2024-02-29T00:00:00,0,,0,5,17,Relleu,Alacant/Alicante
+303,2024-02-29T00:00:00,0,,0,2,18,Cañada,Alacant/Alicante
+304,2024-02-29T00:00:00,0,,0,7,19,Murla,Alacant/Alicante
+305,2024-02-29T00:00:00,0,,0,8,23,Redován,Alacant/Alicante
+306,2024-02-29T00:00:00,0,,0,7,18,Callosa d'en Sarrià,Alacant/Alicante
+307,2024-02-29T00:00:00,0,,0,8,23,Callosa de Segura,Alacant/Alicante
+308,2024-02-29T00:00:00,0,,0,8,23,Jacarilla,Alacant/Alicante
+309,2024-02-29T00:00:00,0,,0,8,23,Algorfa,Alacant/Alicante
+310,2024-02-29T00:00:00,0,,0,3,17,Benasau,Alacant/Alicante
+311,2024-02-29T00:00:00,0,,0,5,19,Algueña,Alacant/Alicante
+312,2024-02-29T00:00:00,0,,0,4,17,Tollos,Alacant/Alicante
+313,2024-02-29T00:00:00,0,,0,8,24,Rafal,Alacant/Alicante
+314,2024-02-29T00:00:00,0,,0,8,24,Catral,Alacant/Alicante
+315,2024-02-29T00:00:00,0,,0,7,18,Polop,Alacant/Alicante
+316,2024-02-29T00:00:00,0,,0,5,21,Beniarrés,Alacant/Alicante
+317,2024-02-29T00:00:00,0,,0,8,23,Almoradí,Alacant/Alicante
+318,2024-02-29T00:00:00,0,,0,7,19,Xaló,Alacant/Alicante
+319,2024-02-29T00:00:00,0,,0,5,20,Planes,Alacant/Alicante
+320,2024-02-29T00:00:00,0,,0,3,18,Salinas,Alacant/Alicante
+321,2024-02-29T00:00:00,0,,0,6,18,"Benitachell/Poble Nou de Benitatxell, el",Alacant/Alicante
+322,2024-02-29T00:00:00,0,,0,7,17,Benissa,Alacant/Alicante
+323,2024-02-29T00:00:00,0,,0,3,18,"Campo de Mirra/Camp de Mirra, el",Alacant/Alicante
+324,2024-02-29T00:00:00,0,,0,9,20,Sagra,Alacant/Alicante
+325,2024-02-29T00:00:00,0,,0,9,20,Benimeli,Alacant/Alicante
+326,2024-02-29T00:00:00,0,,0,4,18,Benimassot,Alacant/Alicante
+327,2024-02-29T00:00:00,0,,0,9,20,"Ràfol d'Almúnia, el",Alacant/Alicante
+328,2024-02-29T00:00:00,0,,0,5,20,Benimarfull,Alacant/Alicante
+329,2024-02-29T00:00:00,0,,0,5,17,Benimantell,Alacant/Alicante
+330,2024-02-29T00:00:00,0,,0,4,19,Benillup,Alacant/Alicante
+331,2024-02-29T00:00:00,0,,0,4,18,Benilloba,Alacant/Alicante
+332,2024-02-29T00:00:00,0,,0,7,20,"Fondó de les Neus, el/Hondón de las Nieves",Alacant/Alicante
+333,2024-02-29T00:00:00,0,,0,5,20,Monóvar/Monòver,Alacant/Alicante
+334,2024-02-29T00:00:00,0,,0,4,16,Benifato,Alacant/Alicante
+335,2024-02-29T00:00:00,0,,0,2,16,Benifallim,Alacant/Alicante
+336,2024-02-29T00:00:00,0,,0,8,23,Formentera del Segura,Alacant/Alicante
+337,2024-02-29T00:00:00,0,,0,6,18,Teulada,Alacant/Alicante
+338,2024-02-29T00:00:00,0,,0,5,19,"Romana, la",Alacant/Alicante
+339,2024-02-29T00:00:00,0,,0,9,22,Rojales,Alacant/Alicante
+340,2024-02-29T00:00:00,0,,0,4,18,Tibi,Alacant/Alicante
+341,2024-02-29T00:00:00,0,,0,4,18,Quatretondeta,Alacant/Alicante
+342,2024-02-29T00:00:00,0,,0,9,19,"Poblets, els",Alacant/Alicante
+343,2024-02-29T00:00:00,0,,0,8,19,Benidoleig,Alacant/Alicante
+344,2024-02-29T00:00:00,0,,0,3,17,Ibi,Alacant/Alicante
+345,2024-02-29T00:00:00,0,,0,4,18,Almudaina,Alacant/Alicante
+346,2024-02-29T00:00:00,0,,0,4,18,Alfafara,Alacant/Alicante
+347,2024-02-29T00:00:00,0,,0,7,19,Benigembla,Alacant/Alicante
+348,2024-02-29T00:00:00,0,,0,10,17,Benidorm,Alacant/Alicante
+349,2024-02-29T00:00:00,0,,0,9,18,Calp,Alacant/Alicante
+350,2024-02-29T00:00:00,0,,0,7,18,"Vall de Laguar, la",Alacant/Alicante
+351,2024-02-29T00:00:00,0,,0,7,19,Gata de Gorgos,Alacant/Alicante
+352,2024-02-29T00:00:00,0,,0,10,19,Santa Pola,Alacant/Alicante
+353,2024-02-29T00:00:00,0,,0,10,19,Guardamar del Segura,Alacant/Alicante
+354,2024-02-29T00:00:00,0,,0,8,23,Cox,Alacant/Alicante
+355,2024-02-29T00:00:00,0,,0,6,16,Aigües,Alacant/Alicante
+356,2024-02-29T00:00:00,0,,0,5,20,Elda,Alacant/Alicante
+357,2024-02-29T00:00:00,0,,0,7,21,Elche/Elx,Alacant/Alicante
+358,2024-02-29T00:00:00,0,,0,5,17,Busot,Alacant/Alicante
+359,2024-02-29T00:00:00,0,,0,8,23,Bigastro,Alacant/Alicante
+360,2024-02-29T00:00:00,0,,0,7,19,Parcent,Alacant/Alicante
+361,2024-02-29T00:00:00,0,,0,7,18,Dénia,Alacant/Alicante
+362,2024-02-29T00:00:00,0,,0,1,17,Biar,Alacant/Alicante
+363,2024-02-29T00:00:00,0,,0,7,23,Crevillent,Alacant/Alicante
+364,2024-02-29T00:00:00,0,,0,7,18,Bolulla,Alacant/Alicante
+365,2024-02-29T00:00:00,0,,0,5,19,Cocentaina,Alacant/Alicante
+366,2024-02-29T00:00:00,0,,0,7,24,Albatera,Alacant/Alicante
+367,2024-02-29T00:00:00,0,,0,4,18,Millena,Alacant/Alicante
+368,2024-02-29T00:00:00,0,,0,8,24,Granja de Rocamora,Alacant/Alicante
+369,2024-02-29T00:00:00,0,,0,3,16,Agres,Alacant/Alicante
+370,2024-02-29T00:00:00,0,,0,6,20,Agost,Alacant/Alicante
+371,2024-02-29T00:00:00,0,,0,2,17,Banyeres de Mariola,Alacant/Alicante
+372,2024-02-29T00:00:00,0,,0,6,21,"Lorcha/Orxa, l'",Alacant/Alicante
+373,2024-02-29T00:00:00,0,,0,9,20,Ondara,Alacant/Alicante
+374,2024-02-29T00:00:00,0,,0,4,18,Balones,Alacant/Alicante
+375,2024-02-29T00:00:00,0,,0,3,17,Onil,Alacant/Alicante
+376,2024-02-29T00:00:00,0,,0,4,19,Gorga,Alacant/Alicante
+377,2024-02-29T00:00:00,0,,0,6,17,Senija,Alacant/Alicante
+378,2024-02-29T00:00:00,0,,0,8,20,Orba,Alacant/Alicante
+379,2024-02-29T00:00:00,0,,0,7,18,"Nucia, la",Alacant/Alicante
+380,2024-02-29T00:00:00,0,,0,6,17,Sella,Alacant/Alicante
+381,2024-02-29T00:00:00,0,,0,7,22,Orihuela,Alacant/Alicante
+382,2024-02-29T00:00:00,0,,0,3,19,Sax,Alacant/Alicante
+383,2024-02-29T00:00:00,0,,0,8,21,Novelda,Alacant/Alicante
+384,2024-02-29T00:00:00,0,,0,10,20,Torrevieja,Alacant/Alicante
+385,2024-02-29T00:00:00,0,,0,8,17,Finestrat,Alacant/Alicante
+386,2024-02-29T00:00:00,0,,0,8,18,Orxeta,Alacant/Alicante
+387,2024-02-29T00:00:00,0,,0,7,19,Llíber,Alacant/Alicante
+388,2024-02-29T00:00:00,0,,0,2,16,"Torremanzanas/Torre de les Maçanes, la",Alacant/Alicante
+389,2024-02-29T00:00:00,0,,0,7,18,Pedreguer,Alacant/Alicante
+390,2024-02-29T00:00:00,0,,0,3,15,Confrides,Alacant/Alicante
+391,2024-02-29T00:00:00,0,,0,7,19,Alcalalí,Alacant/Alicante
+392,2024-02-29T00:00:00,0,,0,6,19,Hondón de los Frailes,Alacant/Alicante
+393,2024-02-29T00:00:00,0,,0,7,18,"Vall d'Ebo, la",Alacant/Alicante
+394,2024-02-29T00:00:00,0,,0,2,18,Villena,Alacant/Alicante
+395,2024-02-29T00:00:00,0,,0,8,23,Dolores,Alacant/Alicante
+396,2024-02-29T00:00:00,0,,0,5,20,Gaianes,Alacant/Alicante
+397,2024-02-29T00:00:00,0,,0,9,21,Pego,Alacant/Alicante
+398,2024-02-29T00:00:00,0,,0,2,16,Penàguila,Alacant/Alicante
+399,2024-02-29T00:00:00,0,,0,7,18,Sant Joan d'Alacant,Alacant/Alicante
+400,2024-02-29T00:00:00,0,,0,6,19,Vall de Gallinera,Alacant/Alicante
+401,2024-02-29T00:00:00,0,,0,8,21,Monforte del Cid,Alacant/Alicante
+402,2024-02-29T00:00:00,0,,0,5,18,"Vall d'Alcalà, la",Alacant/Alicante
+403,2024-02-29T00:00:00,0,,0,9,20,"Atzúbia, l'",Alacant/Alicante
+404,2024-02-29T00:00:00,0,,0,1,16,Bayárcal,Almería
+405,2024-02-29T00:00:00,0,,0,3,16,Turrillas,Almería
+406,2024-02-29T00:00:00,0,,0,3,17,Castro de Filabres,Almería
+407,2024-02-29T00:00:00,0,,0,8,20,Albánchez,Almería
+408,2024-02-29T00:00:00,0,,0,10,23,Turre,Almería
+409,2024-02-29T00:00:00,0,,0,7,20,Instinción,Almería
+410,2024-02-29T00:00:00,0,,0,5,19,Alcolea,Almería
+411,2024-02-29T00:00:00,0,,0,7,21,Íllar,Almería
+412,2024-02-29T00:00:00,0,,0,7,20,Bédar,Almería
+413,2024-02-29T00:00:00,0,,0,7,22,Canjáyar,Almería
+414,2024-02-29T00:00:00,0,,0,11,21,Garrucha,Almería
+415,2024-02-29T00:00:00,0,,0,8,20,Albox,Almería
+416,2024-02-29T00:00:00,0,,0,2,14,Bacares,Almería
+417,2024-02-29T00:00:00,0,,0,6,18,Armuña de Almanzora,Almería
+418,2024-02-29T00:00:00,0,,0,5,18,Taberno,Almería
+419,2024-02-29T00:00:00,0,,0,6,21,Padules,Almería
+420,2024-02-29T00:00:00,0,,0,7,19,Líjar,Almería
+421,2024-02-29T00:00:00,0,,0,6,18,Enix,Almería
+422,2024-02-29T00:00:00,0,,0,6,17,Urrácal,Almería
+423,2024-02-29T00:00:00,0,,0,4,18,Fondón,Almería
+424,2024-02-29T00:00:00,0,,0,7,20,Berja,Almería
+425,2024-02-29T00:00:00,0,,0,6,21,Tabernas,Almería
+426,2024-02-29T00:00:00,0,,0,5,17,Tíjola,Almería
+427,2024-02-29T00:00:00,0,,0,4,19,Láujar de Andarax,Almería
+428,2024-02-29T00:00:00,0,,0,9,22,Zurgena,Almería
+429,2024-02-29T00:00:00,0,,0,6,18,"Tres Villas, Las",Almería
+430,2024-02-29T00:00:00,0,,0,6,18,Suflí,Almería
+431,2024-02-29T00:00:00,0,,0,5,16,Lúcar,Almería
+432,2024-02-29T00:00:00,0,,0,4,16,Sierro,Almería
+433,2024-02-29T00:00:00,0,,0,8,19,Olula del Río,Almería
+434,2024-02-29T00:00:00,0,,0,3,17,Olula de Castro,Almería
+435,2024-02-29T00:00:00,0,,0,9,19,Almería,Almería
+436,2024-02-29T00:00:00,0,,0,0,13,María,Almería
+437,2024-02-29T00:00:00,0,,0,7,19,Purchena,Almería
+438,2024-02-29T00:00:00,0,,0,8,22,Benahadux,Almería
+439,2024-02-29T00:00:00,0,,0,7,21,Pulpí,Almería
+440,2024-02-29T00:00:00,0,,0,5,18,Ohanes,Almería
+441,2024-02-29T00:00:00,0,,0,6,17,Somontín,Almería
+442,2024-02-29T00:00:00,0,,0,7,20,Lubrín,Almería
+443,2024-02-29T00:00:00,0,,0,9,21,Viator,Almería
+444,2024-02-29T00:00:00,0,,0,6,21,Sorbas,Almería
+445,2024-02-29T00:00:00,0,,0,8,20,Carboneras,Almería
+446,2024-02-29T00:00:00,0,,0,6,20,Níjar,Almería
+447,2024-02-29T00:00:00,0,,0,4,16,Fiñana,Almería
+448,2024-02-29T00:00:00,0,,0,5,18,Abla,Almería
+449,2024-02-29T00:00:00,0,,0,4,16,Serón,Almería
+450,2024-02-29T00:00:00,0,,0,10,19,Adra,Almería
+451,2024-02-29T00:00:00,0,,0,4,14,Oria,Almería
+452,2024-02-29T00:00:00,0,,0,9,20,Cantoria,Almería
+453,2024-02-29T00:00:00,0,,0,8,23,Alhabia,Almería
+454,2024-02-29T00:00:00,0,,0,6,20,Alhama de Almería,Almería
+455,2024-02-29T00:00:00,0,,0,9,22,Arboleas,Almería
+456,2024-02-29T00:00:00,0,,0,4,18,Velefique,Almería
+457,2024-02-29T00:00:00,0,,0,11,23,Vera,Almería
+458,2024-02-29T00:00:00,0,,0,8,20,Fines,Almería
+459,2024-02-29T00:00:00,0,,0,9,23,Cuevas del Almanzora,Almería
+460,2024-02-29T00:00:00,0,,0,3,17,Senés,Almería
+461,2024-02-29T00:00:00,0,,0,7,21,Alicún,Almería
+462,2024-02-29T00:00:00,0,,0,6,19,Nacimiento,Almería
+463,2024-02-29T00:00:00,0,,0,4,17,Abrucena,Almería
+464,2024-02-29T00:00:00,0,,0,4,19,Beires,Almería
+465,2024-02-29T00:00:00,0,,0,6,20,Uleila del Campo,Almería
+466,2024-02-29T00:00:00,0,,0,8,22,Rioja,Almería
+467,2024-02-29T00:00:00,0,,0,4,17,Benizalón,Almería
+468,2024-02-29T00:00:00,0,,0,7,22,Gádor,Almería
+469,2024-02-29T00:00:00,0,,0,2,14,Chirivel,Almería
+470,2024-02-29T00:00:00,0,,0,4,17,Alcudia de Monteagud,Almería
+471,2024-02-29T00:00:00,0,,0,5,19,Gérgal,Almería
+472,2024-02-29T00:00:00,0,,0,6,19,Cóbdar,Almería
+473,2024-02-29T00:00:00,0,,0,8,23,Alsodux,Almería
+474,2024-02-29T00:00:00,0,,0,7,20,Huécija,Almería
+475,2024-02-29T00:00:00,0,,0,10,20,Mojácar,Almería
+476,2024-02-29T00:00:00,0,,0,5,17,Felix,Almería
+477,2024-02-29T00:00:00,0,,0,7,19,Partaloa,Almería
+478,2024-02-29T00:00:00,0,,0,9,23,"Gallardos, Los",Almería
+479,2024-02-29T00:00:00,0,,0,4,18,Benitagla,Almería
+480,2024-02-29T00:00:00,0,,0,3,16,Alcóntar,Almería
+481,2024-02-29T00:00:00,0,,0,8,22,Bentarique,Almería
+482,2024-02-29T00:00:00,0,,0,7,21,Alboloduy,Almería
+483,2024-02-29T00:00:00,0,,0,5,20,Almócita,Almería
+484,2024-02-29T00:00:00,0,,0,1,16,Paterna del Río,Almería
+485,2024-02-29T00:00:00,0,,0,7,19,Macael,Almería
+486,2024-02-29T00:00:00,0,,0,9,20,"Mojonera, La",Almería
+487,2024-02-29T00:00:00,0,,0,8,20,Vícar,Almería
+488,2024-02-29T00:00:00,0,,0,9,21,Pechina,Almería
+489,2024-02-29T00:00:00,0,,0,8,19,Dalías,Almería
+490,2024-02-29T00:00:00,0,,0,3,17,Vélez-Rubio,Almería
+491,2024-02-29T00:00:00,0,,0,8,22,Terque,Almería
+492,2024-02-29T00:00:00,0,,0,8,22,Santa Cruz de Marchena,Almería
+493,2024-02-29T00:00:00,0,,0,7,21,Rágol,Almería
+494,2024-02-29T00:00:00,0,,0,10,20,Roquetas de Mar,Almería
+495,2024-02-29T00:00:00,0,,0,4,18,Lucainena de las Torres,Almería
+496,2024-02-29T00:00:00,0,,0,4,17,Chercos,Almería
+497,2024-02-29T00:00:00,0,,0,1,14,Vélez-Blanco,Almería
+498,2024-02-29T00:00:00,0,,0,9,21,Huércal-Overa,Almería
+499,2024-02-29T00:00:00,0,,0,5,17,Bayarque,Almería
+500,2024-02-29T00:00:00,0,,0,-1,9,Herreros de Suso,Ávila
+501,2024-02-29T00:00:00,0,,0,-1,10,Berrocalejo de Aragona,Ávila
+502,2024-02-29T00:00:00,0,,0,-2,9,Bonilla de la Sierra,Ávila
+503,2024-02-29T00:00:00,0,,0,-2,9,Gallegos de Sobrinos,Ávila
+504,2024-02-29T00:00:00,0,,0,-1,10,Hernansancho,Ávila
+505,2024-02-29T00:00:00,0,,0,-1,10,Monsalupe,Ávila
+506,2024-02-29T00:00:00,0,,0,-2,11,Santa María de los Caballeros,Ávila
+507,2024-02-29T00:00:00,0,,0,-1,11,"Bohodón, El",Ávila
+508,2024-02-29T00:00:00,0,,0,-1,11,Adanero,Ávila
+509,2024-02-29T00:00:00,0,,0,-1,10,Mediana de Voltoya,Ávila
+510,2024-02-29T00:00:00,0,,0,2,14,Villarejo del Valle,Ávila
+511,2024-02-29T00:00:00,0,,0,-2,10,Ávila,Ávila
+512,2024-02-29T00:00:00,0,,0,2,15,Gavilanes,Ávila
+513,2024-02-29T00:00:00,0,,0,-1,10,"Serrada, La",Ávila
+514,2024-02-29T00:00:00,0,,0,-2,10,Serranillos,Ávila
+515,2024-02-29T00:00:00,0,,0,-3,9,Martínez,Ávila
+516,2024-02-29T00:00:00,0,,0,-1,10,Sigeres,Ávila
+517,2024-02-29T00:00:00,0,,0,3,16,Sotillo de la Adrada,Ávila
+518,2024-02-29T00:00:00,0,,0,-1,11,Sinlabajos,Ávila
+519,2024-02-29T00:00:00,0,,0,-1,10,Sotalbo,Ávila
+520,2024-02-29T00:00:00,0,,0,-1,9,Solana de Rioalmar,Ávila
+521,2024-02-29T00:00:00,0,,0,-1,10,Solana de Ávila,Ávila
+522,2024-02-29T00:00:00,0,,0,-1,10,Gimialcón,Ávila
+523,2024-02-29T00:00:00,0,,0,-2,11,Gilbuena,Ávila
+524,2024-02-29T00:00:00,0,,0,-1,10,Solosancho,Ávila
+525,2024-02-29T00:00:00,0,,0,1,14,Burgohondo,Ávila
+526,2024-02-29T00:00:00,0,,0,-2,10,Gil García,Ávila
+527,2024-02-29T00:00:00,0,,0,-2,8,Martiherrero,Ávila
+528,2024-02-29T00:00:00,0,,0,-1,10,Santa María del Arroyo,Ávila
+529,2024-02-29T00:00:00,0,,0,-1,10,Gotarrendura,Ávila
+530,2024-02-29T00:00:00,0,,0,-1,11,Blascosancho,Ávila
+531,2024-02-29T00:00:00,0,,0,-2,10,Santa María del Berrocal,Ávila
+532,2024-02-29T00:00:00,0,,0,-2,11,Villar de Corneja,Ávila
+533,2024-02-29T00:00:00,0,,0,-2,8,Santa María del Cubillo,Ávila
+534,2024-02-29T00:00:00,0,,0,3,15,Santa María del Tiétar,Ávila
+535,2024-02-29T00:00:00,0,,0,-1,11,Espinosa de los Caballeros,Ávila
+536,2024-02-29T00:00:00,0,,0,-2,8,Marlín,Ávila
+537,2024-02-29T00:00:00,0,,0,-2,11,"Carrera, La",Ávila
+538,2024-02-29T00:00:00,0,,0,-3,8,Santiago del Collado,Ávila
+539,2024-02-29T00:00:00,0,,0,-2,10,Santiago del Tormes,Ávila
+540,2024-02-29T00:00:00,0,,0,-2,7,Mengamuñoz,Ávila
+541,2024-02-29T00:00:00,0,,0,-1,11,Santo Domingo de las Posadas,Ávila
+542,2024-02-29T00:00:00,0,,0,-1,10,Grandes y San Martín,Ávila
+543,2024-02-29T00:00:00,0,,0,0,11,Santo Tomé de Zabarcos,Ávila
+544,2024-02-29T00:00:00,0,,0,-3,7,Valdecasa,Ávila
+545,2024-02-29T00:00:00,0,,0,-2,10,Medinilla,Ávila
+546,2024-02-29T00:00:00,0,,0,-1,9,Cardeñosa,Ávila
+547,2024-02-29T00:00:00,0,,0,-1,10,Blascomillán,Ávila
+548,2024-02-29T00:00:00,0,,0,3,16,"Adrada, La",Ávila
+549,2024-02-29T00:00:00,0,,0,-1,11,Blasconuño de Matacabras,Ávila
+550,2024-02-29T00:00:00,0,,0,0,11,Cantiveros,Ávila
+551,2024-02-29T00:00:00,0,,0,1,12,"Hornillo, El",Ávila
+552,2024-02-29T00:00:00,0,,0,-2,11,Arévalo,Ávila
+553,2024-02-29T00:00:00,0,,0,0,11,Castellanos de Zapardiel,Ávila
+554,2024-02-29T00:00:00,0,,0,-1,10,Salobral,Ávila
+555,2024-02-29T00:00:00,0,,0,-3,7,Hoyos del Espino,Ávila
+556,2024-02-29T00:00:00,0,,0,-1,10,Salvadiós,Ávila
+557,2024-02-29T00:00:00,0,,0,-3,6,Hoyos del Collado,Ávila
+558,2024-02-29T00:00:00,0,,0,-2,10,Malpartida de Corneja,Ávila
+559,2024-02-29T00:00:00,0,,0,-1,10,Muñogalindo,Ávila
+560,2024-02-29T00:00:00,0,,0,-2,11,Umbrías,Ávila
+561,2024-02-29T00:00:00,0,,0,-1,11,Velayos,Ávila
+562,2024-02-29T00:00:00,0,,0,-1,10,Maello,Ávila
+563,2024-02-29T00:00:00,0,,0,-2,10,San Bartolomé de Béjar,Ávila
+564,2024-02-29T00:00:00,0,,0,-2,10,San Bartolomé de Corneja,Ávila
+565,2024-02-29T00:00:00,0,,0,0,12,San Bartolomé de Pinares,Ávila
+566,2024-02-29T00:00:00,0,,0,0,12,San Esteban de Zapardiel,Ávila
+567,2024-02-29T00:00:00,0,,0,-2,9,San Esteban de los Patos,Ávila
+568,2024-02-29T00:00:00,0,,0,2,14,San Esteban del Valle,Ávila
+569,2024-02-29T00:00:00,0,,0,-1,11,Tiñosillos,Ávila
+570,2024-02-29T00:00:00,0,,0,-3,7,Cepeda la Mora,Ávila
+571,2024-02-29T00:00:00,0,,0,-2,8,Hurtumpascual,Ávila
+572,2024-02-29T00:00:00,0,,0,-2,9,Aldeanueva de Santa Cruz,Ávila
+573,2024-02-29T00:00:00,0,,0,-1,9,Muñico,Ávila
+574,2024-02-29T00:00:00,0,,0,0,11,Rasueros,Ávila
+575,2024-02-29T00:00:00,0,,0,-2,9,Tolbaños,Ávila
+576,2024-02-29T00:00:00,0,,0,3,15,Fresnedilla,Ávila
+577,2024-02-29T00:00:00,0,,0,-3,8,Tórtoles,Ávila
+578,2024-02-29T00:00:00,0,,0,-1,11,Riocabado,Ávila
+579,2024-02-29T00:00:00,0,,0,-2,9,Riofrío,Ávila
+580,2024-02-29T00:00:00,0,,0,1,13,Cuevas del Valle,Ávila
+581,2024-02-29T00:00:00,0,,0,2,15,Cebreros,Ávila
+582,2024-02-29T00:00:00,0,,0,0,9,Muñana,Ávila
+583,2024-02-29T00:00:00,0,,0,0,10,Rivilla de Barajas,Ávila
+584,2024-02-29T00:00:00,0,,0,2,15,"Tiemblo, El",Ávila
+585,2024-02-29T00:00:00,0,,0,0,11,Barromán,Ávila
+586,2024-02-29T00:00:00,0,,0,-1,10,Brabos,Ávila
+587,2024-02-29T00:00:00,0,,0,-2,10,"Aldehuela, La",Ávila
+588,2024-02-29T00:00:00,0,,0,-1,11,Moraleja de Matacabras,Ávila
+589,2024-02-29T00:00:00,0,,0,0,11,Fuente el Saúz,Ávila
+590,2024-02-29T00:00:00,0,,0,-1,11,Aldeaseca,Ávila
+591,2024-02-29T00:00:00,0,,0,-1,9,San García de Ingelmos,Ávila
+592,2024-02-29T00:00:00,0,,0,-3,7,San Juan de Gredos,Ávila
+593,2024-02-29T00:00:00,0,,0,0,11,"Fresno, El",Ávila
+594,2024-02-29T00:00:00,0,,0,-1,11,San Juan de la Encinilla,Ávila
+595,2024-02-29T00:00:00,0,,0,-1,10,Puerto Castilla,Ávila
+596,2024-02-29T00:00:00,0,,0,0,11,Bercial de Zapardiel,Ávila
+597,2024-02-29T00:00:00,0,,0,-2,11,Tormellas,Ávila
+598,2024-02-29T00:00:00,0,,0,-3,9,Zapardiel de la Cañada,Ávila
+599,2024-02-29T00:00:00,0,,0,0,11,San Pedro del Arroyo,Ávila
+600,2024-02-29T00:00:00,0,,0,0,10,Muñosancho,Ávila
+601,2024-02-29T00:00:00,0,,0,-2,10,Hoyocasero,Ávila
+602,2024-02-29T00:00:00,0,,0,-1,11,San Vicente de Arévalo,Ávila
+603,2024-02-29T00:00:00,0,,0,-1,13,"Barraco, El",Ávila
+604,2024-02-29T00:00:00,0,,0,0,9,Muñotello,Ávila
+605,2024-02-29T00:00:00,0,,0,-1,9,Tornadizos de Ávila,Ávila
+606,2024-02-29T00:00:00,0,,0,2,14,"Hoyo de Pinares, El",Ávila
+607,2024-02-29T00:00:00,0,,0,-1,11,Villanueva de Gómez,Ávila
+608,2024-02-29T00:00:00,0,,0,0,13,Casillas,Ávila
+609,2024-02-29T00:00:00,0,,0,0,11,Fuentes de Año,Ávila
+610,2024-02-29T00:00:00,0,,0,-3,7,Sanchorreja,Ávila
+611,2024-02-29T00:00:00,0,,0,-1,11,San Pascual,Ávila
+612,2024-02-29T00:00:00,0,,0,-2,10,Hoyorredondo,Ávila
+613,2024-02-29T00:00:00,0,,0,-2,11,San Juan de la Nava,Ávila
+614,2024-02-29T00:00:00,0,,0,-1,11,San Juan del Molinillo,Ávila
+615,2024-02-29T00:00:00,0,,0,-4,7,Hoyos de Miguel Muñoz,Ávila
+616,2024-02-29T00:00:00,0,,0,-3,8,Zapardiel de la Ribera,Ávila
+617,2024-02-29T00:00:00,0,,0,0,10,Fontiveros,Ávila
+618,2024-02-29T00:00:00,0,,0,0,10,Muñogrande,Ávila
+619,2024-02-29T00:00:00,0,,0,-1,10,Muñopepe,Ávila
+620,2024-02-29T00:00:00,0,,0,-2,8,San Juan del Olmo,Ávila
+621,2024-02-29T00:00:00,0,,0,0,11,Muñomer del Peco,Ávila
+622,2024-02-29T00:00:00,0,,0,-2,9,Bularros,Ávila
+623,2024-02-29T00:00:00,0,,0,-4,6,San Martín de la Vega del Alberche,Ávila
+624,2024-02-29T00:00:00,0,,0,-2,9,San Martín del Pimpollar,Ávila
+625,2024-02-29T00:00:00,0,,0,-2,9,San Miguel de Corneja,Ávila
+626,2024-02-29T00:00:00,0,,0,-2,9,San Miguel de Serrezuela,Ávila
+627,2024-02-29T00:00:00,0,,0,-2,11,San Lorenzo de Tormes,Ávila
+628,2024-02-29T00:00:00,0,,0,-1,10,Sanchidrián,Ávila
+629,2024-02-29T00:00:00,0,,0,2,18,Trujillanos,Badajoz
+630,2024-02-29T00:00:00,0,,0,3,16,Burguillos del Cerro,Badajoz
+631,2024-02-29T00:00:00,0,,0,3,18,Valdelacalzada,Badajoz
+632,2024-02-29T00:00:00,0,,0,3,16,Magacela,Badajoz
+633,2024-02-29T00:00:00,0,,0,1,18,Mérida,Badajoz
+634,2024-02-29T00:00:00,0,,0,2,18,Arroyo de San Serván,Badajoz
+635,2024-02-29T00:00:00,0,,0,3,18,Medellín,Badajoz
+636,2024-02-29T00:00:00,0,,0,3,15,Esparragosa de Lares,Badajoz
+637,2024-02-29T00:00:00,0,,0,3,14,Trasierra,Badajoz
+638,2024-02-29T00:00:00,0,,0,2,18,Esparragalejo,Badajoz
+639,2024-02-29T00:00:00,0,,0,3,17,Cristina,Badajoz
+640,2024-02-29T00:00:00,0,,0,3,18,Valdetorres,Badajoz
+641,2024-02-29T00:00:00,0,,0,3,15,Malpartida de la Serena,Badajoz
+642,2024-02-29T00:00:00,0,,0,3,14,Montemolín,Badajoz
+643,2024-02-29T00:00:00,0,,0,3,13,Monesterio,Badajoz
+644,2024-02-29T00:00:00,0,,0,3,17,Villar de Rena,Badajoz
+645,2024-02-29T00:00:00,0,,0,2,16,Navalvillar de Pela,Badajoz
+646,2024-02-29T00:00:00,0,,0,3,15,Usagre,Badajoz
+647,2024-02-29T00:00:00,0,,0,3,18,Don Álvaro,Badajoz
+648,2024-02-29T00:00:00,0,,0,3,15,Baterno,Badajoz
+649,2024-02-29T00:00:00,0,,0,2,15,Monterrubio de la Serena,Badajoz
+650,2024-02-29T00:00:00,0,,0,4,17,Manchita,Badajoz
+651,2024-02-29T00:00:00,0,,0,3,18,Montijo,Badajoz
+652,2024-02-29T00:00:00,0,,0,3,14,Feria,Badajoz
+653,2024-02-29T00:00:00,0,,0,1,15,Cabeza del Buey,Badajoz
+654,2024-02-29T00:00:00,0,,0,3,15,Maguilla,Badajoz
+655,2024-02-29T00:00:00,0,,0,2,17,Mirandilla,Badajoz
+656,2024-02-29T00:00:00,0,,0,2,14,Azuaga,Badajoz
+657,2024-02-29T00:00:00,0,,0,2,13,Cabeza la Vaca,Badajoz
+658,2024-02-29T00:00:00,0,,0,3,18,Badajoz,Badajoz
+659,2024-02-29T00:00:00,0,,0,5,16,Nogales,Badajoz
+660,2024-02-29T00:00:00,0,,0,4,15,Barcarrota,Badajoz
+661,2024-02-29T00:00:00,0,,0,2,15,Malcocinado,Badajoz
+662,2024-02-29T00:00:00,0,,0,4,17,Entrín Bajo,Badajoz
+663,2024-02-29T00:00:00,0,,0,3,18,Mengabril,Badajoz
+664,2024-02-29T00:00:00,0,,0,3,16,Valdecaballeros,Badajoz
+665,2024-02-29T00:00:00,0,,0,4,16,"Morera, La",Badajoz
+666,2024-02-29T00:00:00,0,,0,2,15,Medina de las Torres,Badajoz
+667,2024-02-29T00:00:00,0,,0,5,16,Táliga,Badajoz
+668,2024-02-29T00:00:00,0,,0,3,17,"Nava de Santiago, La",Badajoz
+669,2024-02-29T00:00:00,0,,0,2,15,Atalaya,Badajoz
+670,2024-02-29T00:00:00,0,,0,3,18,Don Benito,Badajoz
+671,2024-02-29T00:00:00,0,,0,3,14,Puebla de Alcocer,Badajoz
+672,2024-02-29T00:00:00,0,,0,3,16,Oliva de la Frontera,Badajoz
+673,2024-02-29T00:00:00,0,,0,4,16,Zahínos,Badajoz
+674,2024-02-29T00:00:00,0,,0,3,16,Zalamea de la Serena,Badajoz
+675,2024-02-29T00:00:00,0,,0,3,14,Salvaleón,Badajoz
+676,2024-02-29T00:00:00,0,,0,3,13,Salvatierra de los Barros,Badajoz
+677,2024-02-29T00:00:00,0,,0,3,16,Oliva de Mérida,Badajoz
+678,2024-02-29T00:00:00,0,,0,2,14,Benquerencia de la Serena,Badajoz
+679,2024-02-29T00:00:00,0,,0,2,15,Alconera,Badajoz
+680,2024-02-29T00:00:00,0,,0,3,15,Villarta de los Montes,Badajoz
+681,2024-02-29T00:00:00,0,,0,5,16,Alconchel,Badajoz
+682,2024-02-29T00:00:00,0,,0,2,17,San Pedro de Mérida,Badajoz
+683,2024-02-29T00:00:00,0,,0,4,14,San Vicente de Alcántara,Badajoz
+684,2024-02-29T00:00:00,0,,0,2,16,Sancti-Spíritus,Badajoz
+685,2024-02-29T00:00:00,0,,0,3,17,"Zarza, La",Badajoz
+686,2024-02-29T00:00:00,0,,0,2,15,Hornachos,Badajoz
+687,2024-02-29T00:00:00,0,,0,2,13,Fuentes de León,Badajoz
+688,2024-02-29T00:00:00,0,,0,1,14,Zarza-Capilla,Badajoz
+689,2024-02-29T00:00:00,0,,0,3,15,Tamurejo,Badajoz
+690,2024-02-29T00:00:00,0,,0,4,16,Fuente del Maestre,Badajoz
+691,2024-02-29T00:00:00,0,,0,2,13,Fuente del Arco,Badajoz
+692,2024-02-29T00:00:00,0,,0,2,14,Fuente de Cantos,Badajoz
+693,2024-02-29T00:00:00,0,,0,2,14,Calzadilla de los Barros,Badajoz
+694,2024-02-29T00:00:00,0,,0,2,14,Fregenal de la Sierra,Badajoz
+695,2024-02-29T00:00:00,0,,0,4,17,Villalba de los Barros,Badajoz
+696,2024-02-29T00:00:00,0,,0,3,14,Valle de Santa Ana,Badajoz
+697,2024-02-29T00:00:00,0,,0,2,15,Castuera,Badajoz
+698,2024-02-29T00:00:00,0,,0,3,14,Reina,Badajoz
+699,2024-02-29T00:00:00,0,,0,3,18,Rena,Badajoz
+700,2024-02-29T00:00:00,0,,0,2,16,Retamal de Llerena,Badajoz
+701,2024-02-29T00:00:00,0,,0,2,16,Campanario,Badajoz
+702,2024-02-29T00:00:00,0,,0,3,16,Ribera del Fresno,Badajoz
+703,2024-02-29T00:00:00,0,,0,3,16,Valle de la Serena,Badajoz
+704,2024-02-29T00:00:00,0,,0,3,16,Castilblanco,Badajoz
+705,2024-02-29T00:00:00,0,,0,2,15,Risco,Badajoz
+706,2024-02-29T00:00:00,0,,0,1,16,Zafra,Badajoz
+707,2024-02-29T00:00:00,0,,0,3,15,Fuenlabrada de los Montes,Badajoz
+708,2024-02-29T00:00:00,0,,0,2,15,Campillo de Llerena,Badajoz
+709,2024-02-29T00:00:00,0,,0,4,17,"Roca de la Sierra, La",Badajoz
+710,2024-02-29T00:00:00,0,,0,4,17,Villar del Rey,Badajoz
+711,2024-02-29T00:00:00,0,,0,3,17,Villanueva de la Serena,Badajoz
+712,2024-02-29T00:00:00,0,,0,4,15,Alburquerque,Badajoz
+713,2024-02-29T00:00:00,0,,0,3,14,Berlanga,Badajoz
+714,2024-02-29T00:00:00,0,,0,3,18,Guadiana del Caudillo,Badajoz
+715,2024-02-29T00:00:00,0,,0,2,14,Bodonal de la Sierra,Badajoz
+716,2024-02-29T00:00:00,0,,0,2,17,"Carrascalejo, El",Badajoz
+717,2024-02-29T00:00:00,0,,0,3,16,Carmonita,Badajoz
+718,2024-02-29T00:00:00,0,,0,2,14,Granja de Torrehermosa,Badajoz
+719,2024-02-29T00:00:00,0,,0,2,15,"Santos de Maimona, Los",Badajoz
+720,2024-02-29T00:00:00,0,,0,3,16,Valverde de Burguillos,Badajoz
+721,2024-02-29T00:00:00,0,,0,3,16,Casas de Don Pedro,Badajoz
+722,2024-02-29T00:00:00,0,,0,2,14,Segura de León,Badajoz
+723,2024-02-29T00:00:00,0,,0,2,17,Acedera,Badajoz
+724,2024-02-29T00:00:00,0,,0,4,16,Valverde de Leganés,Badajoz
+725,2024-02-29T00:00:00,0,,0,3,15,Valverde de Llerena,Badajoz
+726,2024-02-29T00:00:00,0,,0,3,17,Valverde de Mérida,Badajoz
+727,2024-02-29T00:00:00,0,,0,3,15,Siruela,Badajoz
+728,2024-02-29T00:00:00,0,,0,3,17,Solana de los Barros,Badajoz
+729,2024-02-29T00:00:00,0,,0,1,15,Capilla,Badajoz
+730,2024-02-29T00:00:00,0,,0,4,17,Aceuchal,Badajoz
+731,2024-02-29T00:00:00,0,,0,3,14,Ahillones,Badajoz
+732,2024-02-29T00:00:00,0,,0,4,17,Santa Marta,Badajoz
+733,2024-02-29T00:00:00,0,,0,3,17,Guareña,Badajoz
+734,2024-02-29T00:00:00,0,,0,3,16,Hinojosa del Valle,Badajoz
+735,2024-02-29T00:00:00,0,,0,2,14,Higuera la Real,Badajoz
+736,2024-02-29T00:00:00,0,,0,3,16,Higuera de la Serena,Badajoz
+737,2024-02-29T00:00:00,0,,0,4,16,Higuera de Vargas,Badajoz
+738,2024-02-29T00:00:00,0,,0,2,15,Higuera de Llerena,Badajoz
+739,2024-02-29T00:00:00,0,,0,2,16,Herrera del Duque,Badajoz
+740,2024-02-29T00:00:00,0,,0,3,16,Helechosa de los Montes,Badajoz
+741,2024-02-29T00:00:00,0,,0,3,16,Garbayuela,Badajoz
+742,2024-02-29T00:00:00,0,,0,3,17,"Haba, La",Badajoz
+743,2024-02-29T00:00:00,0,,0,2,18,Santa Amalia,Badajoz
+744,2024-02-29T00:00:00,0,,0,3,17,Talavera la Real,Badajoz
+745,2024-02-29T00:00:00,0,,0,3,16,Talarrubias,Badajoz
+746,2024-02-29T00:00:00,0,,0,3,17,Alange,Badajoz
+747,2024-02-29T00:00:00,0,,0,2,14,Bienvenida,Badajoz
+748,2024-02-29T00:00:00,0,,0,2,15,Garlitos,Badajoz
+749,2024-02-29T00:00:00,0,,0,3,14,Casas de Reina,Badajoz
+750,2024-02-29T00:00:00,0,,0,2,18,"Garrovilla, La",Badajoz
+751,2024-02-29T00:00:00,0,,0,4,17,"Albuera, La",Badajoz
+752,2024-02-29T00:00:00,0,,0,3,16,Quintana de la Serena,Badajoz
+753,2024-02-29T00:00:00,0,,0,3,16,Esparragosa de la Serena,Badajoz
+754,2024-02-29T00:00:00,0,,0,2,18,Calamonte,Badajoz
+755,2024-02-29T00:00:00,0,,0,5,16,Villanueva del Fresno,Badajoz
+756,2024-02-29T00:00:00,0,,0,3,15,"Lapa, La",Badajoz
+757,2024-02-29T00:00:00,0,,0,5,16,Almendral,Badajoz
+758,2024-02-29T00:00:00,0,,0,4,16,Almendralejo,Badajoz
+759,2024-02-29T00:00:00,0,,0,3,18,Villagonzalo,Badajoz
+760,2024-02-29T00:00:00,0,,0,5,15,"Codosera, La",Badajoz
+761,2024-02-29T00:00:00,0,,0,5,16,Torre de Miguel Sesmero,Badajoz
+762,2024-02-29T00:00:00,0,,0,2,15,Llera,Badajoz
+763,2024-02-29T00:00:00,0,,0,3,14,Villagarcía de la Torre,Badajoz
+764,2024-02-29T00:00:00,0,,0,3,17,Cordobilla de Lácara,Badajoz
+765,2024-02-29T00:00:00,0,,0,2,15,Valencia de las Torres,Badajoz
+766,2024-02-29T00:00:00,0,,0,3,14,"Parra, La",Badajoz
+767,2024-02-29T00:00:00,0,,0,1,15,Peñalsordo,Badajoz
+768,2024-02-29T00:00:00,0,,0,4,16,Villafranca de los Barros,Badajoz
+769,2024-02-29T00:00:00,0,,0,4,14,Llerena,Badajoz
+770,2024-02-29T00:00:00,0,,0,5,16,Valencia del Mombuey,Badajoz
+771,2024-02-29T00:00:00,0,,0,3,17,Palomas,Badajoz
+772,2024-02-29T00:00:00,0,,0,2,15,Valencia del Ventoso,Badajoz
+773,2024-02-29T00:00:00,0,,0,6,16,Cheles,Badajoz
+774,2024-02-29T00:00:00,0,,0,3,17,Torremejía,Badajoz
+775,2024-02-29T00:00:00,0,,0,2,17,"Coronada, La",Badajoz
+776,2024-02-29T00:00:00,0,,0,3,14,Calera de León,Badajoz
+777,2024-02-29T00:00:00,0,,0,3,17,Lobón,Badajoz
+778,2024-02-29T00:00:00,0,,0,3,15,Jerez de los Caballeros,Badajoz
+779,2024-02-29T00:00:00,0,,0,5,16,Olivenza,Badajoz
+780,2024-02-29T00:00:00,0,,0,3,17,Pueblonuevo del Guadiana,Badajoz
+781,2024-02-29T00:00:00,0,,0,4,17,Corte de Peleas,Badajoz
+782,2024-02-29T00:00:00,0,,0,3,16,Puebla del Prior,Badajoz
+783,2024-02-29T00:00:00,0,,0,3,13,Valle de Matamoros,Badajoz
+784,2024-02-29T00:00:00,0,,0,3,15,Puebla del Maestre,Badajoz
+785,2024-02-29T00:00:00,0,,0,2,16,Orellana de la Sierra,Badajoz
+786,2024-02-29T00:00:00,0,,0,3,16,Puebla de la Reina,Badajoz
+787,2024-02-29T00:00:00,0,,0,3,18,Puebla de la Calzada,Badajoz
+788,2024-02-29T00:00:00,0,,0,2,18,Torremayor,Badajoz
+789,2024-02-29T00:00:00,0,,0,2,14,Peraleda del Zaucejo,Badajoz
+790,2024-02-29T00:00:00,0,,0,2,15,Puebla de Sancho Pérez,Badajoz
+791,2024-02-29T00:00:00,0,,0,2,15,Puebla de Sancho Pérez,Badajoz
+792,2024-02-29T00:00:00,0,,0,4,15,Puebla de Obando,Badajoz
+793,2024-02-29T00:00:00,0,,0,2,17,Orellana la Vieja,Badajoz
+794,2024-02-29T00:00:00,0,,0,2,17,Aljucén,Badajoz
+795,2024-02-29T00:00:00,0,,0,7,17,Santa Margalida,Illes Balears (Mallorca)
+796,2024-02-29T00:00:00,0,,0,7,16,Sant Llorenç des Cardassar,Illes Balears (Mallorca)
+797,2024-02-29T00:00:00,0,,0,8,14,Alaior,Illes Balears (Menorca)
+798,2024-02-29T00:00:00,0,,0,5,16,Alaró,Illes Balears (Mallorca)
+799,2024-02-29T00:00:00,0,,0,4,17,Santa Eugènia,Illes Balears (Mallorca)
+800,2024-02-29T00:00:00,0,,0,8,14,Ferreries,Illes Balears (Menorca)
+801,2024-02-29T00:00:00,0,,0,4,16,Mancor de la Vall,Illes Balears (Mallorca)
+802,2024-02-29T00:00:00,0,,0,8,19,Eivissa,Illes Balears (Ibiza-Formentera)
+803,2024-02-29T00:00:00,0,,0,10,15,Andratx,Illes Balears (Mallorca)
+804,2024-02-29T00:00:00,0,,0,7,18,Santa Eulària des Riu,Illes Balears (Ibiza-Formentera)
+805,2024-02-29T00:00:00,0,,0,11,16,Formentera,Illes Balears (Ibiza-Formentera)
+806,2024-02-29T00:00:00,0,,0,9,14,"Mercadal, Es",Illes Balears (Menorca)
+807,2024-02-29T00:00:00,0,,0,8,18,Palma,Illes Balears (Mallorca)
+808,2024-02-29T00:00:00,0,,0,7,15,Son Servera,Illes Balears (Mallorca)
+809,2024-02-29T00:00:00,0,,0,4,17,Costitx,Illes Balears (Mallorca)
+810,2024-02-29T00:00:00,0,,0,10,15,Banyalbufar,Illes Balears (Mallorca)
+811,2024-02-29T00:00:00,0,,0,5,17,Sineu,Illes Balears (Mallorca)
+812,2024-02-29T00:00:00,0,,0,9,15,Capdepera,Illes Balears (Mallorca)
+813,2024-02-29T00:00:00,0,,0,11,14,Maó-Mahón,Illes Balears (Menorca)
+814,2024-02-29T00:00:00,0,,0,4,17,Sencelles,Illes Balears (Mallorca)
+815,2024-02-29T00:00:00,0,,0,5,17,Selva,Illes Balears (Mallorca)
+816,2024-02-29T00:00:00,0,,0,4,14,Escorca,Illes Balears (Mallorca)
+817,2024-02-29T00:00:00,0,,0,6,17,Vilafranca de Bonany,Illes Balears (Mallorca)
+818,2024-02-29T00:00:00,0,,0,9,14,"Migjorn Gran, Es",Illes Balears (Menorca)
+819,2024-02-29T00:00:00,0,,0,8,16,Sóller,Illes Balears (Mallorca)
+820,2024-02-29T00:00:00,0,,0,6,17,Llucmajor,Illes Balears (Mallorca)
+821,2024-02-29T00:00:00,0,,0,5,17,Consell,Illes Balears (Mallorca)
+822,2024-02-29T00:00:00,0,,0,7,16,Manacor,Illes Balears (Mallorca)
+823,2024-02-29T00:00:00,0,,0,5,18,Llubí,Illes Balears (Mallorca)
+824,2024-02-29T00:00:00,0,,0,6,17,Maria de la Salut,Illes Balears (Mallorca)
+825,2024-02-29T00:00:00,0,,0,6,17,Santanyí,Illes Balears (Mallorca)
+826,2024-02-29T00:00:00,0,,0,5,17,Lloseta,Illes Balears (Mallorca)
+827,2024-02-29T00:00:00,0,,0,4,17,Lloret de Vistalegre,Illes Balears (Mallorca)
+828,2024-02-29T00:00:00,0,,0,5,17,Santa María del Camí,Illes Balears (Mallorca)
+829,2024-02-29T00:00:00,0,,0,5,17,Binissalem,Illes Balears (Mallorca)
+830,2024-02-29T00:00:00,0,,0,6,18,Marratxí,Illes Balears (Mallorca)
+831,2024-02-29T00:00:00,0,,0,6,16,Bunyola,Illes Balears (Mallorca)
+832,2024-02-29T00:00:00,0,,0,8,14,Sant Lluís,Illes Balears (Menorca)
+833,2024-02-29T00:00:00,0,,0,8,15,Sant Josep de sa Talaia,Illes Balears (Ibiza-Formentera)
+834,2024-02-29T00:00:00,0,,0,5,18,Campos,Illes Balears (Mallorca)
+835,2024-02-29T00:00:00,0,,0,10,17,Alcúdia,Illes Balears (Mallorca)
+836,2024-02-29T00:00:00,0,,0,12,15,Ciutadella de Menorca,Illes Balears (Menorca)
+837,2024-02-29T00:00:00,0,,0,11,16,Felanitx,Illes Balears (Mallorca)
+838,2024-02-29T00:00:00,0,,0,7,16,"Pobla, Sa",Illes Balears (Mallorca)
+839,2024-02-29T00:00:00,0,,0,7,13,Valldemossa,Illes Balears (Mallorca)
+840,2024-02-29T00:00:00,0,,0,9,15,Estellencs,Illes Balears (Mallorca)
+841,2024-02-29T00:00:00,0,,0,10,18,Pollença,Illes Balears (Mallorca)
+842,2024-02-29T00:00:00,0,,0,6,17,"Salines, ses",Illes Balears (Mallorca)
+843,2024-02-29T00:00:00,0,,0,4,17,Montuïri,Illes Balears (Mallorca)
+844,2024-02-29T00:00:00,0,,0,4,17,Porreres,Illes Balears (Mallorca)
+845,2024-02-29T00:00:00,0,,0,7,15,Artà,Illes Balears (Mallorca)
+846,2024-02-29T00:00:00,0,,0,6,17,Campanet,Illes Balears (Mallorca)
+847,2024-02-29T00:00:00,0,,0,4,17,Algaida,Illes Balears (Mallorca)
+848,2024-02-29T00:00:00,0,,0,5,17,Inca,Illes Balears (Mallorca)
+849,2024-02-29T00:00:00,0,,0,9,15,Calvià,Illes Balears (Mallorca)
+850,2024-02-29T00:00:00,0,,0,6,17,Muro,Illes Balears (Mallorca)
+851,2024-02-29T00:00:00,0,,0,8,15,Puigpunyent,Illes Balears (Mallorca)
+852,2024-02-29T00:00:00,0,,0,8,16,Fornalutx,Illes Balears (Mallorca)
+853,2024-02-29T00:00:00,0,,0,6,18,Búger,Illes Balears (Mallorca)
+854,2024-02-29T00:00:00,0,,0,8,14,Deià,Illes Balears (Mallorca)
+855,2024-02-29T00:00:00,0,,0,8,14,"Castell, es",Illes Balears (Menorca)
+856,2024-02-29T00:00:00,0,,0,6,17,Petra,Illes Balears (Mallorca)
+857,2024-02-29T00:00:00,0,,0,5,17,Sant Joan,Illes Balears (Mallorca)
+858,2024-02-29T00:00:00,0,,0,6,17,Ariany,Illes Balears (Mallorca)
+859,2024-02-29T00:00:00,0,,0,8,15,Esporles,Illes Balears (Mallorca)
+860,2024-02-29T00:00:00,0,,0,9,17,Sant Antoni de Portmany,Illes Balears (Ibiza-Formentera)
+861,2024-02-29T00:00:00,0,,0,6,16,Sant Joan de Labritja,Illes Balears (Ibiza-Formentera)
+862,2024-02-29T00:00:00,0,,0,6,19,"Hospitalet de Llobregat, L'",Barcelona
+863,2024-02-29T00:00:00,0,,0,2,15,Fonollosa,Barcelona
+864,2024-02-29T00:00:00,0,,0,3,17,"Bruc, El",Barcelona
+865,2024-02-29T00:00:00,0,,0,3,21,Martorell,Barcelona
+866,2024-02-29T00:00:00,0,,0,1,16,Lluçà,Barcelona
+867,2024-02-29T00:00:00,0,,0,3,17,Pueblonuevo del Guadiana,Badajoz
+868,2024-02-29T00:00:00,0,,0,4,17,Corte de Peleas,Badajoz
+869,2024-02-29T00:00:00,0,,0,3,16,Puebla del Prior,Badajoz
+870,2024-02-29T00:00:00,0,,0,3,13,Valle de Matamoros,Badajoz
+871,2024-02-29T00:00:00,0,,0,3,15,Puebla del Maestre,Badajoz
+872,2024-02-29T00:00:00,0,,0,2,16,Orellana de la Sierra,Badajoz
+873,2024-02-29T00:00:00,0,,0,3,16,Puebla de la Reina,Badajoz
+874,2024-02-29T00:00:00,0,,0,3,18,Puebla de la Calzada,Badajoz
+875,2024-02-29T00:00:00,0,,0,2,18,Torremayor,Badajoz
+876,2024-02-29T00:00:00,0,,0,2,14,Peraleda del Zaucejo,Badajoz
+877,2024-02-29T00:00:00,0,,0,2,15,Puebla de Sancho Pérez,Badajoz
+878,2024-02-29T00:00:00,0,,0,4,15,Puebla de Obando,Badajoz
+879,2024-02-29T00:00:00,0,,0,2,17,Orellana la Vieja,Badajoz
+880,2024-02-29T00:00:00,0,,0,2,17,Aljucén,Badajoz
+881,2024-02-29T00:00:00,0,,0,7,17,Santa Margalida,Illes Balears (Mallorca)
+882,2024-02-29T00:00:00,0,,0,7,16,Sant Llorenç des Cardassar,Illes Balears (Mallorca)
+883,2024-02-29T00:00:00,0,,0,8,14,Alaior,Illes Balears (Menorca)
+884,2024-02-29T00:00:00,0,,0,5,16,Alaró,Illes Balears (Mallorca)
+885,2024-02-29T00:00:00,0,,0,4,17,Santa Eugènia,Illes Balears (Mallorca)
+886,2024-02-29T00:00:00,0,,0,8,14,Ferreries,Illes Balears (Menorca)
+887,2024-02-29T00:00:00,0,,0,4,16,Mancor de la Vall,Illes Balears (Mallorca)
+888,2024-02-29T00:00:00,0,,0,8,19,Eivissa,Illes Balears (Ibiza-Formentera)
+889,2024-02-29T00:00:00,0,,0,10,15,Andratx,Illes Balears (Mallorca)
+890,2024-02-29T00:00:00,0,,0,7,18,Santa Eulària des Riu,Illes Balears (Ibiza-Formentera)
+891,2024-02-29T00:00:00,0,,0,11,16,Formentera,Illes Balears (Ibiza-Formentera)
+892,2024-02-29T00:00:00,0,,0,9,14,"Mercadal, Es",Illes Balears (Menorca)
+893,2024-02-29T00:00:00,0,,0,8,18,Palma,Illes Balears (Mallorca)
+894,2024-02-29T00:00:00,0,,0,7,15,Son Servera,Illes Balears (Mallorca)
+895,2024-02-29T00:00:00,0,,0,4,17,Costitx,Illes Balears (Mallorca)
+896,2024-02-29T00:00:00,0,,0,10,15,Banyalbufar,Illes Balears (Mallorca)
+897,2024-02-29T00:00:00,0,,0,5,17,Sineu,Illes Balears (Mallorca)
+898,2024-02-29T00:00:00,0,,0,9,15,Capdepera,Illes Balears (Mallorca)
+899,2024-02-29T00:00:00,0,,0,11,14,Maó-Mahón,Illes Balears (Menorca)
+900,2024-02-29T00:00:00,0,,0,4,17,Sencelles,Illes Balears (Mallorca)
+901,2024-02-29T00:00:00,0,,0,5,17,Selva,Illes Balears (Mallorca)
+902,2024-02-29T00:00:00,0,,0,4,14,Escorca,Illes Balears (Mallorca)
+903,2024-02-29T00:00:00,0,,0,6,17,Vilafranca de Bonany,Illes Balears (Mallorca)
+904,2024-02-29T00:00:00,0,,0,9,14,"Migjorn Gran, Es",Illes Balears (Menorca)
+905,2024-02-29T00:00:00,0,,0,8,16,Sóller,Illes Balears (Mallorca)
+906,2024-02-29T00:00:00,0,,0,6,17,Llucmajor,Illes Balears (Mallorca)
+907,2024-02-29T00:00:00,0,,0,5,17,Consell,Illes Balears (Mallorca)
+908,2024-02-29T00:00:00,0,,0,7,16,Manacor,Illes Balears (Mallorca)
+909,2024-02-29T00:00:00,0,,0,5,18,Llubí,Illes Balears (Mallorca)
+910,2024-02-29T00:00:00,0,,0,6,17,Maria de la Salut,Illes Balears (Mallorca)
+911,2024-02-29T00:00:00,0,,0,6,17,Santanyí,Illes Balears (Mallorca)
+912,2024-02-29T00:00:00,0,,0,5,17,Lloseta,Illes Balears (Mallorca)
+913,2024-02-29T00:00:00,0,,0,4,17,Lloret de Vistalegre,Illes Balears (Mallorca)
+914,2024-02-29T00:00:00,0,,0,5,17,Santa María del Camí,Illes Balears (Mallorca)
+915,2024-02-29T00:00:00,0,,0,5,17,Binissalem,Illes Balears (Mallorca)
+916,2024-02-29T00:00:00,0,,0,6,18,Marratxí,Illes Balears (Mallorca)
+917,2024-02-29T00:00:00,0,,0,6,16,Bunyola,Illes Balears (Mallorca)
+918,2024-02-29T00:00:00,0,,0,8,14,Sant Lluís,Illes Balears (Menorca)
+919,2024-02-29T00:00:00,0,,0,8,15,Sant Josep de sa Talaia,Illes Balears (Ibiza-Formentera)
+920,2024-02-29T00:00:00,0,,0,5,18,Campos,Illes Balears (Mallorca)
+921,2024-02-29T00:00:00,0,,0,10,17,Alcúdia,Illes Balears (Mallorca)
+922,2024-02-29T00:00:00,0,,0,12,15,Ciutadella de Menorca,Illes Balears (Menorca)
+923,2024-02-29T00:00:00,0,,0,11,16,Felanitx,Illes Balears (Mallorca)
+924,2024-02-29T00:00:00,0,,0,7,16,"Pobla, Sa",Illes Balears (Mallorca)
+925,2024-02-29T00:00:00,0,,0,7,13,Valldemossa,Illes Balears (Mallorca)
+926,2024-02-29T00:00:00,0,,0,9,15,Estellencs,Illes Balears (Mallorca)
+927,2024-02-29T00:00:00,0,,0,10,18,Pollença,Illes Balears (Mallorca)
+928,2024-02-29T00:00:00,0,,0,6,17,"Salines, ses",Illes Balears (Mallorca)
+929,2024-02-29T00:00:00,0,,0,4,17,Montuïri,Illes Balears (Mallorca)
+930,2024-02-29T00:00:00,0,,0,4,17,Porreres,Illes Balears (Mallorca)
+931,2024-02-29T00:00:00,0,,0,7,15,Artà,Illes Balears (Mallorca)
+932,2024-02-29T00:00:00,0,,0,6,17,Campanet,Illes Balears (Mallorca)
+933,2024-02-29T00:00:00,0,,0,4,17,Algaida,Illes Balears (Mallorca)
+934,2024-02-29T00:00:00,0,,0,5,17,Inca,Illes Balears (Mallorca)
+935,2024-02-29T00:00:00,0,,0,9,15,Calvià,Illes Balears (Mallorca)
+936,2024-02-29T00:00:00,0,,0,6,17,Muro,Illes Balears (Mallorca)
+937,2024-02-29T00:00:00,0,,0,8,15,Puigpunyent,Illes Balears (Mallorca)
+938,2024-02-29T00:00:00,0,,0,8,16,Fornalutx,Illes Balears (Mallorca)
+939,2024-02-29T00:00:00,0,,0,6,18,Búger,Illes Balears (Mallorca)
+940,2024-02-29T00:00:00,0,,0,8,14,Deià,Illes Balears (Mallorca)
+941,2024-02-29T00:00:00,0,,0,8,14,"Castell, es",Illes Balears (Menorca)
+942,2024-02-29T00:00:00,0,,0,6,17,Petra,Illes Balears (Mallorca)
+943,2024-02-29T00:00:00,0,,0,5,17,Sant Joan,Illes Balears (Mallorca)
+944,2024-02-29T00:00:00,0,,0,6,17,Ariany,Illes Balears (Mallorca)
+945,2024-02-29T00:00:00,0,,0,8,15,Esporles,Illes Balears (Mallorca)
+946,2024-02-29T00:00:00,0,,0,9,17,Sant Antoni de Portmany,Illes Balears (Ibiza-Formentera)
+947,2024-02-29T00:00:00,0,,0,6,16,Sant Joan de Labritja,Illes Balears (Ibiza-Formentera)
+948,2024-02-29T00:00:00,0,,0,6,19,"Hospitalet de Llobregat, L'",Barcelona
+949,2024-02-29T00:00:00,0,,0,2,15,Fonollosa,Barcelona
+950,2024-02-29T00:00:00,0,,0,3,17,"Bruc, El",Barcelona
+951,2024-02-29T00:00:00,0,,0,3,21,Martorell,Barcelona
+952,2024-02-29T00:00:00,0,,0,1,16,Lluçà,Barcelona
+953,2024-02-29T00:00:00,0,,0,2,15,"Brull, El",Barcelona
+954,2024-02-29T00:00:00,0,,0,4,19,"Granada, La",Barcelona
+955,2024-02-29T00:00:00,0,,0,7,16,Malgrat de Mar,Barcelona
+956,2024-02-29T00:00:00,0,,0,3,17,Malla,Barcelona
+957,2024-02-29T00:00:00,0,,0,4,20,Barberà del Vallès,Barcelona
+958,2024-02-29T00:00:00,0,,0,5,15,Begues,Barcelona
+959,2024-02-29T00:00:00,0,,0,3,21,Esparreguera,Barcelona
+960,2024-02-29T00:00:00,0,,0,3,17,Igualada,Barcelona
+961,2024-02-29T00:00:00,0,,0,6,17,Vallgorguina,Barcelona
+962,2024-02-29T00:00:00,0,,0,5,17,Fogars de Montclús,Barcelona
+963,2024-02-29T00:00:00,0,,0,3,17,Pueblonuevo del Guadiana,Badajoz
+964,2024-02-29T00:00:00,0,,0,4,17,Corte de Peleas,Badajoz
+965,2024-02-29T00:00:00,0,,0,3,16,Puebla del Prior,Badajoz
+966,2024-02-29T00:00:00,0,,0,3,13,Valle de Matamoros,Badajoz
+967,2024-02-29T00:00:00,0,,0,3,15,Puebla del Maestre,Badajoz
+968,2024-02-29T00:00:00,0,,0,2,16,Orellana de la Sierra,Badajoz
+969,2024-02-29T00:00:00,0,,0,3,16,Puebla de la Reina,Badajoz
+970,2024-02-29T00:00:00,0,,0,3,18,Puebla de la Calzada,Badajoz
+971,2024-02-29T00:00:00,0,,0,2,18,Torremayor,Badajoz
+972,2024-02-29T00:00:00,0,,0,2,14,Peraleda del Zaucejo,Badajoz
+973,2024-02-29T00:00:00,0,,0,2,15,Puebla de Sancho Pérez,Badajoz
+974,2024-02-29T00:00:00,0,,0,4,15,Puebla de Obando,Badajoz
+975,2024-02-29T00:00:00,0,,0,2,17,Orellana la Vieja,Badajoz
+976,2024-02-29T00:00:00,0,,0,2,17,Aljucén,Badajoz
+977,2024-02-29T00:00:00,0,,0,7,17,Santa Margalida,Illes Balears (Mallorca)
+978,2024-02-29T00:00:00,0,,0,7,16,Sant Llorenç des Cardassar,Illes Balears (Mallorca)
+979,2024-02-29T00:00:00,0,,0,8,14,Alaior,Illes Balears (Menorca)
+980,2024-02-29T00:00:00,0,,0,5,16,Alaró,Illes Balears (Mallorca)
+981,2024-02-29T00:00:00,0,,0,4,17,Santa Eugènia,Illes Balears (Mallorca)
+982,2024-02-29T00:00:00,0,,0,8,14,Ferreries,Illes Balears (Menorca)
+983,2024-02-29T00:00:00,0,,0,4,16,Mancor de la Vall,Illes Balears (Mallorca)
+984,2024-02-29T00:00:00,0,,0,8,19,Eivissa,Illes Balears (Ibiza-Formentera)
+985,2024-02-29T00:00:00,0,,0,10,15,Andratx,Illes Balears (Mallorca)
+986,2024-02-29T00:00:00,0,,0,7,18,Santa Eulària des Riu,Illes Balears (Ibiza-Formentera)
+987,2024-02-29T00:00:00,0,,0,11,16,Formentera,Illes Balears (Ibiza-Formentera)
+988,2024-02-29T00:00:00,0,,0,9,14,"Mercadal, Es",Illes Balears (Menorca)
+989,2024-02-29T00:00:00,0,,0,8,18,Palma,Illes Balears (Mallorca)
+990,2024-02-29T00:00:00,0,,0,7,15,Son Servera,Illes Balears (Mallorca)
+991,2024-02-29T00:00:00,0,,0,4,17,Costitx,Illes Balears (Mallorca)
+992,2024-02-29T00:00:00,0,,0,10,15,Banyalbufar,Illes Balears (Mallorca)
+993,2024-02-29T00:00:00,0,,0,5,17,Sineu,Illes Balears (Mallorca)
+994,2024-02-29T00:00:00,0,,0,9,15,Capdepera,Illes Balears (Mallorca)
+995,2024-02-29T00:00:00,0,,0,11,14,Maó-Mahón,Illes Balears (Menorca)
+996,2024-02-29T00:00:00,0,,0,4,17,Sencelles,Illes Balears (Mallorca)
+997,2024-02-29T00:00:00,0,,0,5,17,Selva,Illes Balears (Mallorca)
+998,2024-02-29T00:00:00,0,,0,4,14,Escorca,Illes Balears (Mallorca)
+999,2024-02-29T00:00:00,0,,0,6,17,Vilafranca de Bonany,Illes Balears (Mallorca)
+1000,2024-02-29T00:00:00,0,,0,9,14,"Migjorn Gran, Es",Illes Balears (Menorca)
+1001,2024-02-29T00:00:00,0,,0,8,16,Sóller,Illes Balears (Mallorca)
+1002,2024-02-29T00:00:00,0,,0,6,17,Llucmajor,Illes Balears (Mallorca)
+1003,2024-02-29T00:00:00,0,,0,5,17,Consell,Illes Balears (Mallorca)
+1004,2024-02-29T00:00:00,0,,0,7,16,Manacor,Illes Balears (Mallorca)
+1005,2024-02-29T00:00:00,0,,0,5,18,Llubí,Illes Balears (Mallorca)
+1006,2024-02-29T00:00:00,0,,0,6,17,Maria de la Salut,Illes Balears (Mallorca)
+1007,2024-02-29T00:00:00,0,,0,6,17,Santanyí,Illes Balears (Mallorca)
+1008,2024-02-29T00:00:00,0,,0,5,17,Lloseta,Illes Balears (Mallorca)
+1009,2024-02-29T00:00:00,0,,0,4,17,Lloret de Vistalegre,Illes Balears (Mallorca)
+1010,2024-02-29T00:00:00,0,,0,5,17,Santa María del Camí,Illes Balears (Mallorca)
+1011,2024-02-29T00:00:00,0,,0,5,17,Binissalem,Illes Balears (Mallorca)
+1012,2024-02-29T00:00:00,0,,0,6,18,Marratxí,Illes Balears (Mallorca)
+1013,2024-02-29T00:00:00,0,,0,6,16,Bunyola,Illes Balears (Mallorca)
+1014,2024-02-29T00:00:00,0,,0,8,14,Sant Lluís,Illes Balears (Menorca)
+1015,2024-02-29T00:00:00,0,,0,8,15,Sant Josep de sa Talaia,Illes Balears (Ibiza-Formentera)
+1016,2024-02-29T00:00:00,0,,0,5,18,Campos,Illes Balears (Mallorca)
+1017,2024-02-29T00:00:00,0,,0,10,17,Alcúdia,Illes Balears (Mallorca)
+1018,2024-02-29T00:00:00,0,,0,12,15,Ciutadella de Menorca,Illes Balears (Menorca)
+1019,2024-02-29T00:00:00,0,,0,11,16,Felanitx,Illes Balears (Mallorca)
+1020,2024-02-29T00:00:00,0,,0,7,16,"Pobla, Sa",Illes Balears (Mallorca)
+1021,2024-02-29T00:00:00,0,,0,7,13,Valldemossa,Illes Balears (Mallorca)
+1022,2024-02-29T00:00:00,0,,0,9,15,Estellencs,Illes Balears (Mallorca)
+1023,2024-02-29T00:00:00,0,,0,10,18,Pollença,Illes Balears (Mallorca)
+1024,2024-02-29T00:00:00,0,,0,6,17,"Salines, ses",Illes Balears (Mallorca)
+1025,2024-02-29T00:00:00,0,,0,4,17,Montuïri,Illes Balears (Mallorca)
+1026,2024-02-29T00:00:00,0,,0,4,17,Porreres,Illes Balears (Mallorca)
+1027,2024-02-29T00:00:00,0,,0,7,15,Artà,Illes Balears (Mallorca)
+1028,2024-02-29T00:00:00,0,,0,6,17,Campanet,Illes Balears (Mallorca)
+1029,2024-02-29T00:00:00,0,,0,4,17,Algaida,Illes Balears (Mallorca)
+1030,2024-02-29T00:00:00,0,,0,5,17,Inca,Illes Balears (Mallorca)
+1031,2024-02-29T00:00:00,0,,0,9,15,Calvià,Illes Balears (Mallorca)
+1032,2024-02-29T00:00:00,0,,0,6,17,Muro,Illes Balears (Mallorca)
+1033,2024-02-29T00:00:00,0,,0,8,15,Puigpunyent,Illes Balears (Mallorca)
+1034,2024-02-29T00:00:00,0,,0,8,16,Fornalutx,Illes Balears (Mallorca)
+1035,2024-02-29T00:00:00,0,,0,6,18,Búger,Illes Balears (Mallorca)
+1036,2024-02-29T00:00:00,0,,0,8,14,Deià,Illes Balears (Mallorca)
+1037,2024-02-29T00:00:00,0,,0,8,14,"Castell, es",Illes Balears (Menorca)
+1038,2024-02-29T00:00:00,0,,0,6,17,Petra,Illes Balears (Mallorca)
+1039,2024-02-29T00:00:00,0,,0,5,17,Sant Joan,Illes Balears (Mallorca)
+1040,2024-02-29T00:00:00,0,,0,6,17,Ariany,Illes Balears (Mallorca)
+1041,2024-02-29T00:00:00,0,,0,8,15,Esporles,Illes Balears (Mallorca)
+1042,2024-02-29T00:00:00,0,,0,9,17,Sant Antoni de Portmany,Illes Balears (Ibiza-Formentera)
+1043,2024-02-29T00:00:00,0,,0,6,16,Sant Joan de Labritja,Illes Balears (Ibiza-Formentera)
+1044,2024-02-29T00:00:00,0,,0,6,19,"Hospitalet de Llobregat, L'",Barcelona
+1045,2024-02-29T00:00:00,0,,0,2,15,Fonollosa,Barcelona
+1046,2024-02-29T00:00:00,0,,0,3,17,"Bruc, El",Barcelona
+1047,2024-02-29T00:00:00,0,,0,3,21,Martorell,Barcelona
+1048,2024-02-29T00:00:00,0,,0,1,16,Lluçà,Barcelona
+1049,2024-02-29T00:00:00,0,,0,2,15,"Brull, El",Barcelona
+1050,2024-02-29T00:00:00,0,,0,4,19,"Granada, La",Barcelona
+1051,2024-02-29T00:00:00,0,,0,7,16,Malgrat de Mar,Barcelona
+1052,2024-02-29T00:00:00,0,,0,3,17,Malla,Barcelona
+1053,2024-02-29T00:00:00,0,,0,4,20,Barberà del Vallès,Barcelona
+1054,2024-02-29T00:00:00,0,,0,5,15,Begues,Barcelona
+1055,2024-02-29T00:00:00,0,,0,3,21,Esparreguera,Barcelona
+1056,2024-02-29T00:00:00,0,,0,3,17,Igualada,Barcelona
+1057,2024-02-29T00:00:00,0,,0,6,17,Vallgorguina,Barcelona
+1058,2024-02-29T00:00:00,0,,0,5,17,Fogars de Montclús,Barcelona
+1059,2024-02-29T00:00:00,0,,0,4,19,Martorelles,Barcelona
+1060,2024-02-29T00:00:00,0,,0,6,19,Esplugues de Llobregat,Barcelona
+1061,2024-02-29T00:00:00,0,,0,6,18,Gavà,Barcelona
+1062,2024-02-29T00:00:00,0,,0,3,16,Jorba,Barcelona
+1063,2024-02-29T00:00:00,0,,0,3,16,Figaró-Montmany,Barcelona
+1064,2024-02-29T00:00:00,0,,0,-1,14,Gisclareny,Barcelona
+1065,2024-02-29T00:00:00,0,,0,3,18,Gironella,Barcelona
+1066,2024-02-29T00:00:00,0,,0,4,20,"Llagosta, La",Barcelona
+1067,2024-02-29T00:00:00,0,,0,3,18,"Masies de Roda, Les",Barcelona
+1068,2024-02-29T00:00:00,0,,0,5,19,"Franqueses del Vallès, Les",Barcelona
+1069,2024-02-29T00:00:00,0,,0,3,15,"Llacuna, La",Barcelona
+1070,2024-02-29T00:00:00,0,,0,4,16,Font-rubí,Barcelona
+1071,2024-02-29T00:00:00,0,,0,2,16,Gallifa,Barcelona
+1072,2024-02-29T00:00:00,0,,0,4,18,Vallirana,Barcelona
+1073,2024-02-29T00:00:00,0,,0,1,18,Gaià,Barcelona
+1074,2024-02-29T00:00:00,0,,0,3,18,Manlleu,Barcelona
+1075,2024-02-29T00:00:00,0,,0,6,18,Llinars del Vallès,Barcelona
+1076,2024-02-29T00:00:00,0,,0,3,18,"Hostalets de Pierola, Els",Barcelona
+1077,2024-02-29T00:00:00,0,,0,2,15,Borredà,Barcelona
+1078,2024-02-29T00:00:00,0,,0,2,18,Folgueroles,Barcelona
+1079,2024-02-29T00:00:00,0,,0,4,19,Lliçà d'Amunt,Barcelona
+1080,2024-02-29T00:00:00,0,,0,0,17,Vic,Barcelona
+1081,2024-02-29T00:00:00,0,,0,5,19,Bigues i Riells,Barcelona
+1082,2024-02-29T00:00:00,0,,0,5,19,"Garriga, La",Barcelona
+1083,2024-02-29T00:00:00,0,,0,4,19,Vallbona d'Anoia,Barcelona
+1084,2024-02-29T00:00:00,0,,0,2,16,Berga,Barcelona
+1085,2024-02-29T00:00:00,0,,0,2,17,Gurb,Barcelona
+1086,2024-02-29T00:00:00,0,,0,4,19,Lliçà de Vall,Barcelona
+1087,2024-02-29T00:00:00,0,,0,1,15,Granera,Barcelona
+1088,2024-02-29T00:00:00,0,,0,-1,13,Vallcebre,Barcelona
+1089,2024-02-29T00:00:00,0,,0,1,17,Guardiola de Berguedà,Barcelona
+1090,2024-02-29T00:00:00,0,,0,1,15,"Espunyola, L'",Barcelona
+1091,2024-02-29T00:00:00,0,,0,2,14,Bellprat,Barcelona
+1092,2024-02-29T00:00:00,0,,0,1,17,"Esquirol, L'",Barcelona
+1093,2024-02-29T00:00:00,0,,0,6,19,Gualba,Barcelona
+1094,2024-02-29T00:00:00,0,,0,0,14,"Estany, L'",Barcelona
+1095,2024-02-29T00:00:00,0,,0,3,18,Marganell,Barcelona
+1096,2024-02-29T00:00:00,0,,0,6,16,Vallromanes,Barcelona
+1097,2024-02-29T00:00:00,0,,0,-1,13,Fígols,Barcelona
+1098,2024-02-29T00:00:00,0,,0,5,19,Granollers,Barcelona
+1099,2024-02-29T00:00:00,0,,0,3,16,Vilada,Barcelona
+1100,2024-02-29T00:00:00,0,,0,1,14,Veciana,Barcelona
+1101,2024-02-29T00:00:00,0,,0,3,18,Fogars de la Selva,Barcelona
+1102,2024-02-29T00:00:00,0,,0,1,19,Manresa,Barcelona
+1103,2024-02-29T00:00:00,0,,0,8,18,Barcelona,Barcelona
+1104,2024-02-29T00:00:00,0,,0,6,19,Cornellà de Llobregat,Barcelona
+1105,2024-02-29T00:00:00,0,,0,7,17,"Masnou, El",Barcelona
+1106,2024-02-29T00:00:00,0,,0,6,18,Santa Coloma de Gramenet,Barcelona
+1107,2024-02-29T00:00:00,0,,0,5,19,Santa Coloma de Cervelló,Barcelona
+1108,2024-02-29T00:00:00,0,,0,2,17,Santa Cecília de Voltregà,Barcelona
+1109,2024-02-29T00:00:00,0,,0,3,17,Tona,Barcelona
+1110,2024-02-29T00:00:00,0,,0,5,20,Sant Vicenç dels Horts,Barcelona
+1111,2024-02-29T00:00:00,0,,0,2,18,Sant Vicenç de Torelló,Barcelona
+1112,2024-02-29T00:00:00,0,,0,7,17,Sant Vicenç de Montalt,Barcelona
+1113,2024-02-29T00:00:00,0,,0,2,17,Rajadell,Barcelona
+1114,2024-02-29T00:00:00,0,,0,2,17,"Masies de Voltregà, Les",Barcelona
+1115,2024-02-29T00:00:00,0,,0,2,20,Sant Vicenç de Castellet,Barcelona
+1116,2024-02-29T00:00:00,0,,0,3,18,Sant Salvador de Guardiola,Barcelona
+1117,2024-02-29T00:00:00,0,,0,3,17,Sant Sadurní d'Osormort,Barcelona
+1118,2024-02-29T00:00:00,0,,0,3,20,Sant Sadurní d'Anoia,Barcelona
+1119,2024-02-29T00:00:00,0,,0,2,17,Talamanca,Barcelona
+1120,2024-02-29T00:00:00,0,,0,2,18,Rellinars,Barcelona
+1121,2024-02-29T00:00:00,0,,0,2,17,Sant Quirze de Besora,Barcelona
+1122,2024-02-29T00:00:00,0,,0,2,15,Sant Quirze Safaja,Barcelona
+1123,2024-02-29T00:00:00,0,,0,4,18,Sant Quintí de Mediona,Barcelona
+1124,2024-02-29T00:00:00,0,,0,7,16,Sant Pol de Mar,Barcelona
+1125,2024-02-29T00:00:00,0,,0,6,18,Sant Pere de Vilamajor,Barcelona
+1126,2024-02-29T00:00:00,0,,0,2,18,Sant Pere de Torelló,Barcelona
+1127,2024-02-29T00:00:00,0,,0,4,19,Sant Pere de Riudebitlles,Barcelona
+1128,2024-02-29T00:00:00,0,,0,6,17,Sant Pere de Ribes,Barcelona
+1129,2024-02-29T00:00:00,0,,0,4,20,Ripollet,Barcelona
+1130,2024-02-29T00:00:00,0,,0,1,14,Sant Pere Sallavinera,Barcelona
+1131,2024-02-29T00:00:00,0,,0,5,19,Castellví de la Marca,Barcelona
+1132,2024-02-29T00:00:00,0,,0,3,18,Castellví de Rosanes,Barcelona
+1133,2024-02-29T00:00:00,0,,0,1,16,Sant Mateu de Bages,Barcelona
+1134,2024-02-29T00:00:00,0,,0,4,20,Sant Quirze del Vallès,Barcelona
+1135,2024-02-29T00:00:00,0,,0,5,17,Tagamanent,Barcelona
+1136,2024-02-29T00:00:00,0,,0,2,17,Santa Eugènia de Berga,Barcelona
+1137,2024-02-29T00:00:00,0,,0,2,17,Santa Eulàlia de Riuprimer,Barcelona
+1138,2024-02-29T00:00:00,0,,0,0,14,Sant Jaume de Frontanyà,Barcelona
+1139,2024-02-29T00:00:00,0,,0,4,19,Polinyà,Barcelona
+1140,2024-02-29T00:00:00,0,,0,2,18,Calldetenes,Barcelona
+1141,2024-02-29T00:00:00,0,,0,2,19,"Pont de Vilomara i Rocafort, El",Barcelona
+1142,2024-02-29T00:00:00,0,,0,4,16,Pontons,Barcelona
+1143,2024-02-29T00:00:00,0,,0,4,18,"Torre de Claramunt, La",Barcelona
+1144,2024-02-29T00:00:00,0,,0,2,19,Callús,Barcelona
+1145,2024-02-29T00:00:00,0,,0,4,19,Cervelló,Barcelona
+1146,2024-02-29T00:00:00,0,,0,7,18,"Prat de Llobregat, El",Barcelona
+1147,2024-02-29T00:00:00,0,,0,1,16,Prats de Lluçanès,Barcelona
+1148,2024-02-29T00:00:00,0,,0,1,14,"Prats de Rei, Els",Barcelona
+1149,2024-02-29T00:00:00,0,,0,7,17,Premià de Dalt,Barcelona
+1150,2024-02-29T00:00:00,0,,0,7,17,Premià de Mar,Barcelona
+1151,2024-02-29T00:00:00,0,,0,0,16,Santa Maria de Besora,Barcelona
+1152,2024-02-29T00:00:00,0,,0,0,14,Calonge de Segarra,Barcelona
+1153,2024-02-29T00:00:00,0,,0,2,17,Santa Maria d'Oló,Barcelona
+1154,2024-02-29T00:00:00,0,,0,5,19,Santa Margarida i els Monjos,Barcelona
+1155,2024-02-29T00:00:00,0,,0,4,20,Cerdanyola del Vallès,Barcelona
+1156,2024-02-29T00:00:00,0,,0,2,15,Cercs,Barcelona
+1157,2024-02-29T00:00:00,0,,0,2,18,Puig-reig,Barcelona
+1158,2024-02-29T00:00:00,0,,0,4,16,Santa Margarida de Montbui,Barcelona
+1159,2024-02-29T00:00:00,0,,0,4,19,Puigdàlber,Barcelona
+1160,2024-02-29T00:00:00,0,,0,4,19,Santa Fe del Penedès,Barcelona
+1161,2024-02-29T00:00:00,0,,0,-1,13,Pujalt,Barcelona
+1162,2024-02-29T00:00:00,0,,0,2,18,Torelló,Barcelona
+1163,2024-02-29T00:00:00,0,,0,0,14,"Quar, La",Barcelona
+1164,2024-02-29T00:00:00,0,,0,4,17,Centelles,Barcelona
+1165,2024-02-29T00:00:00,0,,0,4,17,Tordera,Barcelona
+1166,2024-02-29T00:00:00,0,,0,4,19,Santa Eulàlia de Ronçana,Barcelona
+1167,2024-02-29T00:00:00,0,,0,6,17,Alella,Barcelona
+1168,2024-02-29T00:00:00,0,,0,2,15,Castellterçol,Barcelona
+1169,2024-02-29T00:00:00,0,,0,5,18,"Roca del Vallès, La",Barcelona
+1170,2024-02-29T00:00:00,0,,0,3,18,Roda de Ter,Barcelona
+1171,2024-02-29T00:00:00,0,,0,2,17,Sant Llorenç Savall,Barcelona
+1172,2024-02-29T00:00:00,0,,0,6,19,Sant Just Desvern,Barcelona
+1173,2024-02-29T00:00:00,0,,0,1,17,Sant Julià de Vilatorta,Barcelona
+1174,2024-02-29T00:00:00,0,,0,2,17,Taradell,Barcelona
+1175,2024-02-29T00:00:00,0,,0,2,16,Casserres,Barcelona
+1176,2024-02-29T00:00:00,0,,0,1,15,Sant Julià de Cerdanyola,Barcelona
+1177,2024-02-29T00:00:00,0,,0,7,18,Sant Adrià de Besòs,Barcelona
+1178,2024-02-29T00:00:00,0,,0,1,15,Sant Agustí de Lluçanès,Barcelona
+1179,2024-02-29T00:00:00,0,,0,7,17,Sant Andreu de Llavaneres,Barcelona
+1180,2024-02-29T00:00:00,0,,0,4,20,Sant Andreu de la Barca,Barcelona
+1181,2024-02-29T00:00:00,0,,0,6,18,Sant Antoni de Vilamajor,Barcelona
+1182,2024-02-29T00:00:00,0,,0,-1,15,Sant Bartomeu del Grau,Barcelona
+1183,2024-02-29T00:00:00,0,,0,6,19,Sant Boi de Llobregat,Barcelona
+1184,2024-02-29T00:00:00,0,,0,1,16,Sant Boi de Lluçanès,Barcelona
+1185,2024-02-29T00:00:00,0,,0,7,17,Sant Cebrià de Vallalta,Barcelona
+1186,2024-02-29T00:00:00,0,,0,6,19,Sant Celoni,Barcelona
+1187,2024-02-29T00:00:00,0,,0,6,18,Sant Climent de Llobregat,Barcelona
+1188,2024-02-29T00:00:00,0,,0,4,18,Sant Cugat Sesgarrigues,Barcelona
+1189,2024-02-29T00:00:00,0,,0,4,20,Sant Cugat del Vallès,Barcelona
+1190,2024-02-29T00:00:00,0,,0,3,20,Sant Esteve Sesrovires,Barcelona
+1191,2024-02-29T00:00:00,0,,0,6,19,Sant Esteve de Palautordera,Barcelona
+1192,2024-02-29T00:00:00,0,,0,2,17,Sant Feliu Sasserra,Barcelona
+1193,2024-02-29T00:00:00,0,,0,3,17,Sant Feliu de Codines,Barcelona
+1194,2024-02-29T00:00:00,0,,0,5,20,Sant Feliu de Llobregat,Barcelona
+1195,2024-02-29T00:00:00,0,,0,2,19,Sant Joan de Vilatorrada,Barcelona
+1196,2024-02-29T00:00:00,0,,0,5,18,Sant Fost de Campsentelles,Barcelona
+1197,2024-02-29T00:00:00,0,,0,2,19,Sant Fruitós de Bages,Barcelona
+1198,2024-02-29T00:00:00,0,,0,2,17,Sant Hipòlit de Voltregà,Barcelona
+1199,2024-02-29T00:00:00,0,,0,6,17,Sant Iscle de Vallalta,Barcelona
+1200,2024-02-29T00:00:00,0,,0,1,15,Castell de l'Areny,Barcelona
+1201,2024-02-29T00:00:00,0,,0,4,17,"Pobla de Claramunt, La",Barcelona
+1202,2024-02-29T00:00:00,0,,0,0,16,Tavertet,Barcelona
+1203,2024-02-29T00:00:00,0,,0,3,20,Sant Llorenç d'Hortons,Barcelona
+1204,2024-02-29T00:00:00,0,,0,3,17,Castellolí,Barcelona
+1205,2024-02-29T00:00:00,0,,0,1,16,Castellnou de Bages,Barcelona
+1206,2024-02-29T00:00:00,0,,0,6,17,Tiana,Barcelona
+1207,2024-02-29T00:00:00,0,,0,2,19,Castellgalí,Barcelona
+1208,2024-02-29T00:00:00,0,,0,2,15,Castellfollit del Boix,Barcelona
+1209,2024-02-29T00:00:00,0,,0,6,18,Campins,Barcelona
+1210,2024-02-29T00:00:00,0,,0,-1,14,Castellfollit de Riubregós,Barcelona
+1211,2024-02-29T00:00:00,0,,0,3,19,Terrassa,Barcelona
+1212,2024-02-29T00:00:00,0,,0,2,14,Rubió,Barcelona
+1213,2024-02-29T00:00:00,0,,0,6,18,Castellet i la Gornal,Barcelona
+1214,2024-02-29T00:00:00,0,,0,4,20,Rubí,Barcelona
+1215,2024-02-29T00:00:00,0,,0,7,17,Castelldefels,Barcelona
+1216,2024-02-29T00:00:00,0,,0,2,15,Castellcir,Barcelona
+1217,2024-02-29T00:00:00,0,,0,-3,15,Rupit i Pruit,Barcelona
+1218,2024-02-29T00:00:00,0,,0,4,21,Castellbisbal,Barcelona
+1219,2024-02-29T00:00:00,0,,0,3,19,Sabadell,Barcelona
+1220,2024-02-29T00:00:00,0,,0,2,20,Castellbell i el Vilar,Barcelona
+1221,2024-02-29T00:00:00,0,,0,1,16,Sagàs,Barcelona
+1222,2024-02-29T00:00:00,0,,0,3,19,Castellar del Vallès,Barcelona
+1223,2024-02-29T00:00:00,0,,0,-1,12,Castellar del Riu,Barcelona
+1224,2024-02-29T00:00:00,0,,0,3,16,Sant Martí de Tous,Barcelona
+1225,2024-02-29T00:00:00,0,,0,-1,14,Saldes,Barcelona
+1226,2024-02-29T00:00:00,0,,0,2,14,Sant Martí de Centelles,Barcelona
+1227,2024-02-29T00:00:00,0,,0,2,17,Sant Martí d'Albars,Barcelona
+1228,2024-02-29T00:00:00,0,,0,0,13,Sant Martí Sesgueioles,Barcelona
+1229,2024-02-29T00:00:00,0,,0,0,13,Castellar de n'Hug,Barcelona
+1230,2024-02-29T00:00:00,0,,0,6,17,Teià,Barcelona
+1231,2024-02-29T00:00:00,0,,0,1,19,Sallent,Barcelona
+1232,2024-02-29T00:00:00,0,,0,4,19,Sant Martí Sarroca,Barcelona
+1233,2024-02-29T00:00:00,0,,0,2,18,Tavèrnoles,Barcelona
+1234,2024-02-29T00:00:00,0,,0,5,17,Santa Maria de Martorelles,Barcelona
+1235,2024-02-29T00:00:00,0,,0,1,16,"Pobla de Lillet, La",Barcelona
+1236,2024-02-29T00:00:00,0,,0,2,17,Santa Maria de Merlès,Barcelona
+1237,2024-02-29T00:00:00,0,,0,1,16,Montclar,Barcelona
+1238,2024-02-29T00:00:00,0,,0,2,17,Montesquiu,Barcelona
+1239,2024-02-29T00:00:00,0,,0,6,18,Montgat,Barcelona
+1240,2024-02-29T00:00:00,0,,0,0,14,Montmajor,Barcelona
+1241,2024-02-29T00:00:00,0,,0,0,13,Montmaneu,Barcelona
+1242,2024-02-29T00:00:00,0,,0,4,19,Montmeló,Barcelona
+1243,2024-02-29T00:00:00,0,,0,5,18,Montornès del Vallès,Barcelona
+1244,2024-02-29T00:00:00,0,,0,5,17,Montseny,Barcelona
+1245,2024-02-29T00:00:00,0,,0,5,18,Cànoves i Samalús,Barcelona
+1246,2024-02-29T00:00:00,0,,0,4,17,Vilanova del Camí,Barcelona
+1247,2024-02-29T00:00:00,0,,0,4,19,Ullastrell,Barcelona
+1248,2024-02-29T00:00:00,0,,0,2,19,Artés,Barcelona
+1249,2024-02-29T00:00:00,0,,0,3,21,Abrera,Barcelona
+1250,2024-02-29T00:00:00,0,,0,5,19,Montcada i Reixac,Barcelona
+1251,2024-02-29T00:00:00,0,,0,5,18,Vilanova del Vallès,Barcelona
+1252,2024-02-29T00:00:00,0,,0,2,16,Mura,Barcelona
+1253,2024-02-29T00:00:00,0,,0,3,19,Sentmenat,Barcelona
+1254,2024-02-29T00:00:00,0,,0,4,19,Vilobí del Penedès,Barcelona
+1255,2024-02-29T00:00:00,0,,0,6,17,Vilanova i la Geltrú,Barcelona
+1256,2024-02-29T00:00:00,0,,0,4,19,"Cabanyes, Les",Barcelona
+1257,2024-02-29T00:00:00,0,,0,5,18,Cardedeu,Barcelona
+1258,2024-02-29T00:00:00,0,,0,5,18,Canyelles,Barcelona
+1259,2024-02-29T00:00:00,0,,0,7,17,Vilassar de Dalt,Barcelona
+1260,2024-02-29T00:00:00,0,,0,8,17,Vilassar de Mar,Barcelona
+1261,2024-02-29T00:00:00,0,,0,3,18,Subirats,Barcelona
+1262,2024-02-29T00:00:00,0,,0,7,18,Cubelles,Barcelona
+1263,2024-02-29T00:00:00,0,,0,4,19,"Pla del Penedès, El",Barcelona
+1264,2024-02-29T00:00:00,0,,0,1,14,Argençola,Barcelona
+1265,2024-02-29T00:00:00,0,,0,1,16,Muntanyola,Barcelona
+1266,2024-02-29T00:00:00,0,,0,2,18,Vilanova de Sau,Barcelona
+1267,2024-02-29T00:00:00,0,,0,2,20,Monistrol de Montserrat,Barcelona
+1268,2024-02-29T00:00:00,0,,0,2,17,Monistrol de Calders,Barcelona
+1269,2024-02-29T00:00:00,0,,0,4,20,Masquefa,Barcelona
+1270,2024-02-29T00:00:00,0,,0,2,16,Sora,Barcelona
+1271,2024-02-29T00:00:00,0,,0,4,18,Capellades,Barcelona
+1272,2024-02-29T00:00:00,0,,0,3,18,Matadepera,Barcelona
+1273,2024-02-29T00:00:00,0,,0,7,16,Mataró,Barcelona
+1274,2024-02-29T00:00:00,0,,0,6,18,Viladecans,Barcelona
+1275,2024-02-29T00:00:00,0,,0,1,18,Balsareny,Barcelona
+1276,2024-02-29T00:00:00,0,,0,4,17,Balenyà,Barcelona
+1277,2024-02-29T00:00:00,0,,0,3,19,Viladecavalls,Barcelona
+1278,2024-02-29T00:00:00,0,,0,4,17,Mediona,Barcelona
+1279,2024-02-29T00:00:00,0,,0,4,19,Vilafranca del Penedès,Barcelona
+1280,2024-02-29T00:00:00,0,,0,6,16,Òrrius,Barcelona
+1281,2024-02-29T00:00:00,0,,0,1,17,Bagà,Barcelona
+1282,2024-02-29T00:00:00,0,,0,0,15,Sobremunt,Barcelona
+1283,2024-02-29T00:00:00,0,,0,6,18,Vilalba Sasserra,Barcelona
+1284,2024-02-29T00:00:00,0,,0,3,17,Òdena,Barcelona
+1285,2024-02-29T00:00:00,0,,0,4,20,Badia del Vallès,Barcelona
+1286,2024-02-29T00:00:00,0,,0,6,17,Badalona,Barcelona
+1287,2024-02-29T00:00:00,0,,0,7,16,Sitges,Barcelona
+1288,2024-02-29T00:00:00,0,,0,-1,11,Capolat,Barcelona
+1289,2024-02-29T00:00:00,0,,0,6,17,Dosrius,Barcelona
+1290,2024-02-29T00:00:00,0,,0,3,18,Vacarisses,Barcelona
+1291,2024-02-29T00:00:00,0,,0,2,16,Moià,Barcelona
+1292,2024-02-29T00:00:00,0,,0,4,21,Molins de Rei,Barcelona
+1293,2024-02-29T00:00:00,0,,0,4,19,Mollet del Vallès,Barcelona
+1294,2024-02-29T00:00:00,0,,0,2,16,Avià,Barcelona
+1295,2024-02-29T00:00:00,0,,0,2,18,Avinyó,Barcelona
+1296,2024-02-29T00:00:00,0,,0,4,18,Avinyonet del Penedès,Barcelona
+1297,2024-02-29T00:00:00,0,,0,2,16,Seva,Barcelona
+1298,2024-02-29T00:00:00,0,,0,7,17,Argentona,Barcelona
+1299,2024-02-29T00:00:00,0,,0,1,18,Navàs,Barcelona
+1300,2024-02-29T00:00:00,0,,0,2,19,Navarcles,Barcelona
+1301,2024-02-29T00:00:00,0,,0,6,17,Arenys de Munt,Barcelona
+1302,2024-02-29T00:00:00,0,,0,1,14,Collsuspina,Barcelona
+1303,2024-02-29T00:00:00,0,,0,3,19,Collbató,Barcelona
+1304,2024-02-29T00:00:00,0,,0,4,19,Parets del Vallès,Barcelona
+1305,2024-02-29T00:00:00,0,,0,7,17,Cabrils,Barcelona
+1306,2024-02-29T00:00:00,0,,0,0,15,Viver i Serrateix,Barcelona
+1307,2024-02-29T00:00:00,0,,0,5,19,Canovelles,Barcelona
+1308,2024-02-29T00:00:00,0,,0,5,18,Torrelles de Llobregat,Barcelona
+1309,2024-02-29T00:00:00,0,,0,2,15,Aguilar de Segarra,Barcelona
+1310,2024-02-29T00:00:00,0,,0,7,16,Santa Susanna,Barcelona
+1311,2024-02-29T00:00:00,0,,0,4,18,Torrelles de Foix,Barcelona
+1312,2024-02-29T00:00:00,0,,0,4,19,Torrelavit,Barcelona
+1313,2024-02-29T00:00:00,0,,0,1,16,Perafita,Barcelona
+1314,2024-02-29T00:00:00,0,,0,4,19,"Palma de Cervelló, La",Barcelona
+1315,2024-02-29T00:00:00,0,,0,4,20,Santa Perpètua de Mogoda,Barcelona
+1316,2024-02-29T00:00:00,0,,0,0,13,Calaf,Barcelona
+1317,2024-02-29T00:00:00,0,,0,5,17,Aiguafreda,Barcelona
+1318,2024-02-29T00:00:00,0,,0,7,17,Canet de Mar,Barcelona
+1319,2024-02-29T00:00:00,0,,0,6,18,Santa Maria de Palautordera,Barcelona
+1320,2024-02-29T00:00:00,0,,0,4,19,Piera,Barcelona
+1321,2024-02-29T00:00:00,0,,0,7,16,Pineda de Mar,Barcelona
+1322,2024-02-29T00:00:00,0,,0,2,17,Calders,Barcelona
+1323,2024-02-29T00:00:00,0,,0,1,15,Alpens,Barcelona
+1324,2024-02-29T00:00:00,0,,0,8,17,Caldes d'Estrac,Barcelona
+1325,2024-02-29T00:00:00,0,,0,3,16,Santa Maria de Miralles,Barcelona
+1326,2024-02-29T00:00:00,0,,0,3,19,Caldes de Montbui,Barcelona
+1327,2024-02-29T00:00:00,0,,0,7,16,Calella,Barcelona
+1328,2024-02-29T00:00:00,0,,0,5,18,"Ametlla del Vallès, L'",Barcelona
+1329,2024-02-29T00:00:00,0,,0,4,20,Pallejà,Barcelona
+1330,2024-02-29T00:00:00,0,,0,4,21,"Papiol, El",Barcelona
+1331,2024-02-29T00:00:00,0,,0,4,18,Cabrera d'Anoia,Barcelona
+1332,2024-02-29T00:00:00,0,,0,7,17,Arenys de Mar,Barcelona
+1333,2024-02-29T00:00:00,0,,0,1,15,"Nou de Berguedà, La",Barcelona
+1334,2024-02-29T00:00:00,0,,0,4,17,Olesa de Bonesvalls,Barcelona
+1335,2024-02-29T00:00:00,0,,0,3,21,Olesa de Montserrat,Barcelona
+1336,2024-02-29T00:00:00,0,,0,5,17,Olivella,Barcelona
+1337,2024-02-29T00:00:00,0,,0,2,17,Olost,Barcelona
+1338,2024-02-29T00:00:00,0,,0,3,17,Olvan,Barcelona
+1339,2024-02-29T00:00:00,0,,0,5,18,Olèrdola,Barcelona
+1340,2024-02-29T00:00:00,0,,0,2,18,Santpedor,Barcelona
+1341,2024-02-29T00:00:00,0,,0,2,18,Súria,Barcelona
+1342,2024-02-29T00:00:00,0,,0,3,18,Oristà,Barcelona
+1343,2024-02-29T00:00:00,0,,0,7,17,Cabrera de Mar,Barcelona
+1344,2024-02-29T00:00:00,0,,0,3,15,Orpí,Barcelona
+1345,2024-02-29T00:00:00,0,,0,1,16,Cardona,Barcelona
+1346,2024-02-29T00:00:00,0,,0,3,19,Gelida,Barcelona
+1347,2024-02-29T00:00:00,0,,0,1,17,Orís,Barcelona
+1348,2024-02-29T00:00:00,0,,0,3,19,Palau-solità i Plegamans,Barcelona
+1349,2024-02-29T00:00:00,0,,0,6,16,Palafolls,Barcelona
+1350,2024-02-29T00:00:00,0,,0,4,17,Carme,Barcelona
+1351,2024-02-29T00:00:00,0,,0,2,15,Copons,Barcelona
+1352,2024-02-29T00:00:00,0,,0,3,18,Corbera de Llobregat,Barcelona
+1353,2024-02-29T00:00:00,0,,0,5,20,Sant Joan Despí,Barcelona
+1354,2024-02-29T00:00:00,0,,0,4,19,Pacs del Penedès,Barcelona
+1355,2024-02-29T00:00:00,0,,0,-2,9,"Gallega, La",Burgos
+1356,2024-02-29T00:00:00,0,,0,2,13,Villarcayo de Merindad de Castilla la Vieja,Burgos
+1357,2024-02-29T00:00:00,0,,0,-1,9,Villangómez,Burgos
+1358,2024-02-29T00:00:00,0,,0,-2,9,Cardeñadijo,Burgos
+1359,2024-02-29T00:00:00,0,,0,-3,8,Villanueva de Carazo,Burgos
+1360,2024-02-29T00:00:00,0,,0,-2,10,Villanueva de Argaño,Burgos
+1361,2024-02-29T00:00:00,0,,0,-3,8,Carcedo de Burgos,Burgos
+1362,2024-02-29T00:00:00,0,,0,-3,9,Cardeñajimeno,Burgos
+1363,2024-02-29T00:00:00,0,,0,-3,9,Cardeñuela Riopico,Burgos
+1364,2024-02-29T00:00:00,0,,0,-1,10,Villamedianilla,Burgos
+1365,2024-02-29T00:00:00,0,,0,1,11,Cascajares de Bureba,Burgos
+1366,2024-02-29T00:00:00,0,,0,-1,10,Carrias,Burgos
+1367,2024-02-29T00:00:00,0,,0,2,12,Cantabrana,Burgos
+1368,2024-02-29T00:00:00,0,,0,-2,9,Canicosa de la Sierra,Burgos
+1369,2024-02-29T00:00:00,0,,0,-3,7,Villamiel de la Sierra,Burgos
+1370,2024-02-29T00:00:00,0,,0,-1,11,Carcedo de Bureba,Burgos
+1371,2024-02-29T00:00:00,0,,0,-1,11,Villanueva de Gumiel,Burgos
+1372,2024-02-29T00:00:00,0,,0,-1,10,Villalbilla de Gumiel,Burgos
+1373,2024-02-29T00:00:00,0,,0,-2,9,Cascajares de la Sierra,Burgos
+1374,2024-02-29T00:00:00,0,,0,-2,9,Contreras,Burgos
+1375,2024-02-29T00:00:00,0,,0,2,13,Condado de Treviño,Burgos
+1376,2024-02-29T00:00:00,0,,0,-2,9,Cogollos,Burgos
+1377,2024-02-29T00:00:00,0,,0,-3,10,Villadiego,Burgos
+1378,2024-02-29T00:00:00,0,,0,-2,9,Ciruelos de Cervera,Burgos
+1379,2024-02-29T00:00:00,0,,0,-1,10,Villaescusa de Roa,Burgos
+1380,2024-02-29T00:00:00,0,,0,-2,9,Villaescusa la Sombría,Burgos
+1381,2024-02-29T00:00:00,0,,0,-1,10,Cilleruelo de Arriba,Burgos
+1382,2024-02-29T00:00:00,0,,0,-1,10,Cilleruelo de Abajo,Burgos
+1383,2024-02-29T00:00:00,0,,0,3,13,Cillaperlata,Burgos
+1384,2024-02-29T00:00:00,0,,0,-2,10,Villaespasa,Burgos
+1385,2024-02-29T00:00:00,0,,0,-1,10,Ciadoncha,Burgos
+1386,2024-02-29T00:00:00,0,,0,-1,9,Villafranca Montes de Oca,Burgos
+1387,2024-02-29T00:00:00,0,,0,-1,10,Villafruela,Burgos
+1388,2024-02-29T00:00:00,0,,0,-1,10,Caleruega,Burgos
+1389,2024-02-29T00:00:00,0,,0,0,10,Villagalijo,Burgos
+1390,2024-02-29T00:00:00,0,,0,-2,9,Cerratón de Juarros,Burgos
+1391,2024-02-29T00:00:00,0,,0,-2,10,Cabezón de la Sierra,Burgos
+1392,2024-02-29T00:00:00,0,,0,0,10,Coruña del Conde,Burgos
+1393,2024-02-29T00:00:00,0,,0,1,12,"Vid de Bureba, La",Burgos
+1394,2024-02-29T00:00:00,0,,0,0,11,"Vid y Barrios, La",Burgos
+1395,2024-02-29T00:00:00,0,,0,-2,9,Espinosa de Cervera,Burgos
+1396,2024-02-29T00:00:00,0,,0,-2,10,Burgos,Burgos
+1397,2024-02-29T00:00:00,0,,0,-1,10,Villaquirán de los Infantes,Burgos
+1398,2024-02-29T00:00:00,0,,0,-1,9,Villaquirán de la Puebla,Burgos
+1399,2024-02-29T00:00:00,0,,0,2,12,Encío,Burgos
+1400,2024-02-29T00:00:00,0,,0,2,12,Busto de Bureba,Burgos
+1401,2024-02-29T00:00:00,0,,0,1,11,Espinosa de los Monteros,Burgos
+1402,2024-02-29T00:00:00,0,,0,-1,10,Espinosa del Camino,Burgos
+1403,2024-02-29T00:00:00,0,,0,-2,9,Villagonzalo Pedernales,Burgos
+1404,2024-02-29T00:00:00,0,,0,-2,10,Buniel,Burgos
+1405,2024-02-29T00:00:00,0,,0,2,13,Bugedo,Burgos
+1406,2024-02-29T00:00:00,0,,0,-2,8,Cuevas de San Clemente,Burgos
+1407,2024-02-29T00:00:00,0,,0,0,11,"Cueva de Roa, La",Burgos
+1408,2024-02-29T00:00:00,0,,0,2,12,Cubo de Bureba,Burgos
+1409,2024-02-29T00:00:00,0,,0,-3,8,Cubillo del Campo,Burgos
+1410,2024-02-29T00:00:00,0,,0,-1,10,Cabañes de Esgueva,Burgos
+1411,2024-02-29T00:00:00,0,,0,1,12,Vileña,Burgos
+1412,2024-02-29T00:00:00,0,,0,-1,10,Covarrubias,Burgos
+1413,2024-02-29T00:00:00,0,,0,-1,10,Estépar,Burgos
+1414,2024-02-29T00:00:00,0,,0,2,13,Cerezo de Río Tirón,Burgos
+1415,2024-02-29T00:00:00,0,,0,0,11,Briviesca,Burgos
+1416,2024-02-29T00:00:00,0,,0,-1,9,Fontioso,Burgos
+1417,2024-02-29T00:00:00,0,,0,-1,10,Castrillo de Riopisuerga,Burgos
+1418,2024-02-29T00:00:00,0,,0,-1,10,Campillo de Aranda,Burgos
+1419,2024-02-29T00:00:00,0,,0,-1,10,Castrillo Mota de Judíos,Burgos
+1420,2024-02-29T00:00:00,0,,0,1,12,Castildelgado,Burgos
+1421,2024-02-29T00:00:00,0,,0,-1,10,Castil de Peones,Burgos
+1422,2024-02-29T00:00:00,0,,0,3,13,Bozoó,Burgos
+1423,2024-02-29T00:00:00,0,,0,2,12,Fuentebureba,Burgos
+1424,2024-02-29T00:00:00,0,,0,-1,10,Fuentecén,Burgos
+1425,2024-02-29T00:00:00,0,,0,-1,10,Castrillo de la Reina,Burgos
+1426,2024-02-29T00:00:00,0,,0,-1,10,Fuentelcésped,Burgos
+1427,2024-02-29T00:00:00,0,,0,-1,9,Castellanos de Castro,Burgos
+1428,2024-02-29T00:00:00,0,,0,-2,9,Campolara,Burgos
+1429,2024-02-29T00:00:00,0,,0,-1,10,Fuentemolinos,Burgos
+1430,2024-02-29T00:00:00,0,,0,-1,10,Villamayor de Treviño,Burgos
+1431,2024-02-29T00:00:00,0,,0,-2,9,Villamayor de los Montes,Burgos
+1432,2024-02-29T00:00:00,0,,0,-1,10,Villambistia,Burgos
+1433,2024-02-29T00:00:00,0,,0,-1,10,Fuentenebro,Burgos
+1434,2024-02-29T00:00:00,0,,0,-1,11,Fuentespina,Burgos
+1435,2024-02-29T00:00:00,0,,0,-1,11,Fuentelisendo,Burgos
+1436,2024-02-29T00:00:00,0,,0,-2,9,Galbarros,Burgos
+1437,2024-02-29T00:00:00,0,,0,-1,11,Castrillo de la Vega,Burgos
+1438,2024-02-29T00:00:00,0,,0,-1,10,Castrojeriz,Burgos
+1439,2024-02-29T00:00:00,0,,0,-1,10,Villahoz,Burgos
+1440,2024-02-29T00:00:00,0,,0,-1,10,Frandovínez,Burgos
+1441,2024-02-29T00:00:00,0,,0,-1,10,Celada del Camino,Burgos
+1442,2024-02-29T00:00:00,0,,0,-2,10,Cebrecos,Burgos
+1443,2024-02-29T00:00:00,0,,0,-1,11,Villalba de Duero,Burgos
+1444,2024-02-29T00:00:00,0,,0,-1,9,Fresneda de la Sierra Tirón,Burgos
+1445,2024-02-29T00:00:00,0,,0,-2,9,Cayuela,Burgos
+1446,2024-02-29T00:00:00,0,,0,-1,9,Cavia,Burgos
+1447,2024-02-29T00:00:00,0,,0,-3,9,Castrillo del Val,Burgos
+1448,2024-02-29T00:00:00,0,,0,0,11,Fresneña,Burgos
+1449,2024-02-29T00:00:00,0,,0,-2,9,Fresno de Rodilla,Burgos
+1450,2024-02-29T00:00:00,0,,0,1,12,Fresno de Río Tirón,Burgos
+1451,2024-02-29T00:00:00,0,,0,-2,10,Villalbilla de Burgos,Burgos
+1452,2024-02-29T00:00:00,0,,0,0,10,Brazacorta,Burgos
+1453,2024-02-29T00:00:00,0,,0,-1,10,Villaldemiro,Burgos
+1454,2024-02-29T00:00:00,0,,0,-1,10,Villalmanzo,Burgos
+1455,2024-02-29T00:00:00,0,,0,1,12,Villanueva de Teba,Burgos
+1456,2024-02-29T00:00:00,0,,0,3,13,Frías,Burgos
+1457,2024-02-29T00:00:00,0,,0,0,11,Fresnillo de las Dueñas,Burgos
+1458,2024-02-29T00:00:00,0,,0,-3,9,Úrbel del Castillo,Burgos
+1459,2024-02-29T00:00:00,0,,0,-2,10,Villegas,Burgos
+1460,2024-02-29T00:00:00,0,,0,-1,10,Torresandino,Burgos
+1461,2024-02-29T00:00:00,0,,0,0,11,Peñaranda de Duero,Burgos
+1462,2024-02-29T00:00:00,0,,0,-1,11,Torregalindo,Burgos
+1463,2024-02-29T00:00:00,0,,0,-1,10,Peral de Arlanza,Burgos
+1464,2024-02-29T00:00:00,0,,0,2,13,Ameyugo,Burgos
+1465,2024-02-29T00:00:00,0,,0,-2,8,Torrelara,Burgos
+1466,2024-02-29T00:00:00,0,,0,-3,9,Pedrosa del Páramo,Burgos
+1467,2024-02-29T00:00:00,0,,0,-1,10,Pedrosa del Príncipe,Burgos
+1468,2024-02-29T00:00:00,0,,0,-1,10,"Altos, Los",Burgos
+1469,2024-02-29T00:00:00,0,,0,-2,10,Pedrosa de Río Úrbel,Burgos
+1470,2024-02-29T00:00:00,0,,0,-2,9,Vizcaínos,Burgos
+1471,2024-02-29T00:00:00,0,,0,-1,11,Anguix,Burgos
+1472,2024-02-29T00:00:00,0,,0,2,12,Partido de la Sierra en Tobalina,Burgos
+1473,2024-02-29T00:00:00,0,,0,-1,10,Pardilla,Burgos
+1474,2024-02-29T00:00:00,0,,0,2,12,Pancorbo,Burgos
+1475,2024-02-29T00:00:00,0,,0,-1,10,Pampliega,Burgos
+1476,2024-02-29T00:00:00,0,,0,-1,10,Torrepadre,Burgos
+1477,2024-02-29T00:00:00,0,,0,-1,11,Pedrosa de Duero,Burgos
+1478,2024-02-29T00:00:00,0,,0,1,12,Altable,Burgos
+1479,2024-02-29T00:00:00,0,,0,-1,10,Pineda Trasmonte,Burgos
+1480,2024-02-29T00:00:00,0,,0,-3,7,Pineda de la Sierra,Burgos
+1481,2024-02-29T00:00:00,0,,0,-2,9,Quintanapalla,Burgos
+1482,2024-02-29T00:00:00,0,,0,-3,10,Quintanaortuño,Burgos
+1483,2024-02-29T00:00:00,0,,0,0,11,Quintanabureba,Burgos
+1484,2024-02-29T00:00:00,0,,0,-1,11,Quintana del Pidio,Burgos
+1485,2024-02-29T00:00:00,0,,0,0,11,Quemada,Burgos
+1486,2024-02-29T00:00:00,0,,0,-1,10,Tordómar,Burgos
+1487,2024-02-29T00:00:00,0,,0,-1,10,Puentedura,Burgos
+1488,2024-02-29T00:00:00,0,,0,3,14,"Puebla de Arganzón, La",Burgos
+1489,2024-02-29T00:00:00,0,,0,-1,11,Prádanos de Bureba,Burgos
+1490,2024-02-29T00:00:00,0,,0,-1,10,Presencio,Burgos
+1491,2024-02-29T00:00:00,0,,0,-1,9,Pradoluengo,Burgos
+1492,2024-02-29T00:00:00,0,,0,0,11,Poza de la Sal,Burgos
+1493,2024-02-29T00:00:00,0,,0,0,11,Piérnigas,Burgos
+1494,2024-02-29T00:00:00,0,,0,-2,9,Torrecilla del Monte,Burgos
+1495,2024-02-29T00:00:00,0,,0,-1,10,Pinilla de los Moros,Burgos
+1496,2024-02-29T00:00:00,0,,0,-2,9,Pinilla de los Barruecos,Burgos
+1497,2024-02-29T00:00:00,0,,0,-1,10,Pinilla Trasmonte,Burgos
+1498,2024-02-29T00:00:00,0,,0,-3,8,Palazuelos de la Sierra,Burgos
+1499,2024-02-29T00:00:00,0,,0,-2,9,Quintanar de la Sierra,Burgos
+1500,2024-02-29T00:00:00,0,,0,-1,10,Palazuelos de Muñó,Burgos
+1501,2024-02-29T00:00:00,0,,0,-1,10,Palacios de Riopisuerga,Burgos
+1502,2024-02-29T00:00:00,0,,0,-2,9,Arlanzón,Burgos
+1503,2024-02-29T00:00:00,0,,0,-1,11,Nava de Roa,Burgos
+1504,2024-02-29T00:00:00,0,,0,-2,9,Vilviestre del Pinar,Burgos
+1505,2024-02-29T00:00:00,0,,0,-2,9,Arraya de Oca,Burgos
+1506,2024-02-29T00:00:00,0,,0,1,12,Viloria de Rioja,Burgos
+1507,2024-02-29T00:00:00,0,,0,-1,11,Tubilla del Agua,Burgos
+1508,2024-02-29T00:00:00,0,,0,-1,10,Tubilla del Lago,Burgos
+1509,2024-02-29T00:00:00,0,,0,1,11,Arija,Burgos
+1510,2024-02-29T00:00:00,0,,0,-1,11,Tórtoles de Esgueva,Burgos
+1511,2024-02-29T00:00:00,0,,0,-3,10,Montorio,Burgos
+1512,2024-02-29T00:00:00,0,,0,-3,8,Villoruebo,Burgos
+1513,2024-02-29T00:00:00,0,,0,-3,9,Atapuerca,Burgos
+1514,2024-02-29T00:00:00,0,,0,-2,7,Monterrubio de la Demanda,Burgos
+1515,2024-02-29T00:00:00,0,,0,-2,9,"Ausines, Los",Burgos
+1516,2024-02-29T00:00:00,0,,0,-2,9,Moncalvillo,Burgos
+1517,2024-02-29T00:00:00,0,,0,-2,8,Monasterio de la Sierra,Burgos
+1518,2024-02-29T00:00:00,0,,0,-1,10,Moradillo de Roa,Burgos
+1519,2024-02-29T00:00:00,0,,0,1,12,Navas de Bureba,Burgos
+1520,2024-02-29T00:00:00,0,,0,-1,10,Nebreda,Burgos
+1521,2024-02-29T00:00:00,0,,0,-2,7,Neila,Burgos
+1522,2024-02-29T00:00:00,0,,0,0,11,Padrones de Bureba,Burgos
+1523,2024-02-29T00:00:00,0,,0,-1,10,Padilla de Arriba,Burgos
+1524,2024-02-29T00:00:00,0,,0,-2,12,Aranda de Duero,Burgos
+1525,2024-02-29T00:00:00,0,,0,0,10,Arandilla,Burgos
+1526,2024-02-29T00:00:00,0,,0,-1,10,Padilla de Abajo,Burgos
+1527,2024-02-29T00:00:00,0,,0,1,12,Oña,Burgos
+1528,2024-02-29T00:00:00,0,,0,-2,10,Arauzo de Miel,Burgos
+1529,2024-02-29T00:00:00,0,,0,-1,10,Arauzo de Salce,Burgos
+1530,2024-02-29T00:00:00,0,,0,-1,10,Arauzo de Torre,Burgos
+1531,2024-02-29T00:00:00,0,,0,-3,9,Orbaneja Riopico,Burgos
+1532,2024-02-29T00:00:00,0,,0,-1,10,Oquillas,Burgos
+1533,2024-02-29T00:00:00,0,,0,-1,10,Olmillos de Muñó,Burgos
+1534,2024-02-29T00:00:00,0,,0,-2,9,Arcos,Burgos
+1535,2024-02-29T00:00:00,0,,0,-1,11,Olmedillo de Roa,Burgos
+1536,2024-02-29T00:00:00,0,,0,0,11,Tosantos,Burgos
+1537,2024-02-29T00:00:00,0,,0,-1,10,Arenillas de Riopisuerga,Burgos
+1538,2024-02-29T00:00:00,0,,0,3,13,Trespaderne,Burgos
+1539,2024-02-29T00:00:00,0,,0,-2,10,Palacios de la Sierra,Burgos
+1540,2024-02-29T00:00:00,0,,0,-1,10,Avellanosa de Muñó,Burgos
+1541,2024-02-29T00:00:00,0,,0,-1,10,Quintanavides,Burgos
+1542,2024-02-29T00:00:00,0,,0,1,11,Quintanilla San García,Burgos
+1543,2024-02-29T00:00:00,0,,0,-1,10,Santa María del Campo,Burgos
+1544,2024-02-29T00:00:00,0,,0,2,12,Santa María Rivarredonda,Burgos
+1545,2024-02-29T00:00:00,0,,0,-1,10,Santa Inés,Burgos
+1546,2024-02-29T00:00:00,0,,0,3,14,Santa Gadea del Cid,Burgos
+1547,2024-02-29T00:00:00,0,,0,-1,9,Santa Cruz del Valle Urbión,Burgos
+1548,2024-02-29T00:00:00,0,,0,-1,10,Santa Cruz de la Salceda,Burgos
+1549,2024-02-29T00:00:00,0,,0,-1,10,Santa Cecilia,Burgos
+1550,2024-02-29T00:00:00,0,,0,-2,10,Santa María del Invierno,Burgos
+1551,2024-02-29T00:00:00,0,,0,0,11,Zazuar,Burgos
+1552,2024-02-29T00:00:00,0,,0,-1,11,Zarzosa de Río Pisuerga,Burgos
+1553,2024-02-29T00:00:00,0,,0,0,10,San Vicente del Valle,Burgos
+1554,2024-02-29T00:00:00,0,,0,-1,9,Tamarón,Burgos
+1555,2024-02-29T00:00:00,0,,0,-1,10,Alcocero de Mola,Burgos
+1556,2024-02-29T00:00:00,0,,0,-2,8,San Millán de Lara,Burgos
+1557,2024-02-29T00:00:00,0,,0,-2,10,Tardajos,Burgos
+1558,2024-02-29T00:00:00,0,,0,-1,11,San Martín de Rubiales,Burgos
+1559,2024-02-29T00:00:00,0,,0,-2,10,Albillos,Burgos
+1560,2024-02-29T00:00:00,0,,0,-1,10,Santa María del Mercadillo,Burgos
+1561,2024-02-29T00:00:00,0,,0,-2,10,Santa Olalla de Bureba,Burgos
+1562,2024-02-29T00:00:00,0,,0,1,11,Zuñeda,Burgos
+1563,2024-02-29T00:00:00,0,,0,-2,10,Sordillos,Burgos
+1564,2024-02-29T00:00:00,0,,0,-1,10,Abajas,Burgos
+1565,2024-02-29T00:00:00,0,,0,-1,10,Solarana,Burgos
+1566,2024-02-29T00:00:00,0,,0,-1,11,Sotillo de la Ribera,Burgos
+1567,2024-02-29T00:00:00,0,,0,-1,10,"Sequera de Haza, La",Burgos
+1568,2024-02-29T00:00:00,0,,0,-2,10,Sotragero,Burgos
+1569,2024-02-29T00:00:00,0,,0,-2,11,Sotresgudo,Burgos
+1570,2024-02-29T00:00:00,0,,0,-1,10,Adrada de Haza,Burgos
+1571,2024-02-29T00:00:00,0,,0,-1,10,Sasamón,Burgos
+1572,2024-02-29T00:00:00,0,,0,-2,9,Sarracín,Burgos
+1573,2024-02-29T00:00:00,0,,0,-2,10,Sargentes de la Lora,Burgos
+1574,2024-02-29T00:00:00,0,,0,-3,9,Susinos del Páramo,Burgos
+1575,2024-02-29T00:00:00,0,,0,-2,9,Santo Domingo de Silos,Burgos
+1576,2024-02-29T00:00:00,0,,0,1,12,Aguas Cándidas,Burgos
+1577,2024-02-29T00:00:00,0,,0,-2,10,Santibáñez del Val,Burgos
+1578,2024-02-29T00:00:00,0,,0,-1,10,Santibáñez de Esgueva,Burgos
+1579,2024-02-29T00:00:00,0,,0,1,12,Aguilar de Bureba,Burgos
+1580,2024-02-29T00:00:00,0,,0,-2,10,San Mamés de Burgos,Burgos
+1581,2024-02-29T00:00:00,0,,0,1,12,Quintanaélez,Burgos
+1582,2024-02-29T00:00:00,0,,0,0,11,San Juan del Monte,Burgos
+1583,2024-02-29T00:00:00,0,,0,-2,10,Salinillas de Bureba,Burgos
+1584,2024-02-29T00:00:00,0,,0,1,10,Alfoz de Santa Gadea,Burgos
+1585,2024-02-29T00:00:00,0,,0,-1,10,Revilla Vallejera,Burgos
+1586,2024-02-29T00:00:00,0,,0,-2,10,Retuerta,Burgos
+1587,2024-02-29T00:00:00,0,,0,4,14,Segura de Toro,Cáceres
+1588,2024-02-29T00:00:00,0,,0,5,15,Garvín,Cáceres
+1589,2024-02-29T00:00:00,0,,0,3,14,Gata,Cáceres
+1590,2024-02-29T00:00:00,0,,0,4,15,Serradilla,Cáceres
+1591,2024-02-29T00:00:00,0,,0,4,16,Serrejón,Cáceres
+1592,2024-02-29T00:00:00,0,,0,4,15,Sierra de Fuentes,Cáceres
+1593,2024-02-29T00:00:00,0,,0,3,17,Carcaboso,Cáceres
+1594,2024-02-29T00:00:00,0,,0,5,15,"Granja, La",Cáceres
+1595,2024-02-29T00:00:00,0,,0,5,17,"Gordo, El",Cáceres
+1596,2024-02-29T00:00:00,0,,0,4,14,Carbajo,Cáceres
+1597,2024-02-29T00:00:00,0,,0,3,15,Guadalupe,Cáceres
+1598,2024-02-29T00:00:00,0,,0,4,13,Casas del Monte,Cáceres
+1599,2024-02-29T00:00:00,0,,0,4,15,Gargüera,Cáceres
+1600,2024-02-29T00:00:00,0,,0,3,13,Gargantilla,Cáceres
+1601,2024-02-29T00:00:00,0,,0,3,16,Hernán-Pérez,Cáceres
+1602,2024-02-29T00:00:00,0,,0,5,14,Herguijuela,Cáceres
+1603,2024-02-29T00:00:00,0,,0,2,15,Ruanes,Cáceres
+1604,2024-02-29T00:00:00,0,,0,4,14,Casas de Millán,Cáceres
+1605,2024-02-29T00:00:00,0,,0,3,16,Santa Marta de Magasca,Cáceres
+1606,2024-02-29T00:00:00,0,,0,3,16,Montehermoso,Cáceres
+1607,2024-02-29T00:00:00,0,,0,4,13,Garciaz,Cáceres
+1608,2024-02-29T00:00:00,0,,0,4,15,Deleitosa,Cáceres
+1609,2024-02-29T00:00:00,0,,0,4,17,Casas de Don Gómez,Cáceres
+1610,2024-02-29T00:00:00,0,,0,3,14,Descargamaría,Cáceres
+1611,2024-02-29T00:00:00,0,,0,2,16,Casas de Don Antonio,Cáceres
+1612,2024-02-29T00:00:00,0,,0,4,16,Monroy,Cáceres
+1613,2024-02-29T00:00:00,0,,0,2,13,Villamiel,Cáceres
+1614,2024-02-29T00:00:00,0,,0,4,15,Garganta la Olla,Cáceres
+1615,2024-02-29T00:00:00,0,,0,1,12,Casares de las Hurdes,Cáceres
+1616,2024-02-29T00:00:00,0,,0,2,14,Casar de Palomero,Cáceres
+1617,2024-02-29T00:00:00,0,,0,5,16,Casar de Cáceres,Cáceres
+1618,2024-02-29T00:00:00,0,,0,0,9,"Garganta, La",Cáceres
+1619,2024-02-29T00:00:00,0,,0,5,15,Santiago de Alcántara,Cáceres
+1620,2024-02-29T00:00:00,0,,0,5,16,Santiago del Campo,Cáceres
+1621,2024-02-29T00:00:00,0,,0,4,16,Villamesías,Cáceres
+1622,2024-02-29T00:00:00,0,,0,4,15,Casas de Miravete,Cáceres
+1623,2024-02-29T00:00:00,0,,0,5,17,Huélaga,Cáceres
+1624,2024-02-29T00:00:00,0,,0,4,16,Romangordo,Cáceres
+1625,2024-02-29T00:00:00,0,,0,4,15,Torrecillas de la Tiesa,Cáceres
+1626,2024-02-29T00:00:00,0,,0,3,16,Torrequemada,Cáceres
+1627,2024-02-29T00:00:00,0,,0,4,15,Logrosán,Cáceres
+1628,2024-02-29T00:00:00,0,,0,4,14,Valencia de Alcántara,Cáceres
+1629,2024-02-29T00:00:00,0,,0,3,15,Pinofranqueado,Cáceres
+1630,2024-02-29T00:00:00,0,,0,2,16,Torrecilla de los Ángeles,Cáceres
+1631,2024-02-29T00:00:00,0,,0,0,10,Piornal,Cáceres
+1632,2024-02-29T00:00:00,0,,0,3,16,Valdemorales,Cáceres
+1633,2024-02-29T00:00:00,0,,0,5,16,Piedras Albas,Cáceres
+1634,2024-02-29T00:00:00,0,,0,4,16,Plasencia,Cáceres
+1635,2024-02-29T00:00:00,0,,0,2,15,Torre de Santa María,Cáceres
+1636,2024-02-29T00:00:00,0,,0,4,16,Portaje,Cáceres
+1637,2024-02-29T00:00:00,0,,0,5,15,Portezuelo,Cáceres
+1638,2024-02-29T00:00:00,0,,0,3,14,Torre de Don Miguel,Cáceres
+1639,2024-02-29T00:00:00,0,,0,2,14,Marchagaz,Cáceres
+1640,2024-02-29T00:00:00,0,,0,3,15,Pozuelo de Zarzón,Cáceres
+1641,2024-02-29T00:00:00,0,,0,4,18,Coria,Cáceres
+1642,2024-02-29T00:00:00,0,,0,1,12,Ladrillar,Cáceres
+1643,2024-02-29T00:00:00,0,,0,3,16,Plasenzuela,Cáceres
+1644,2024-02-29T00:00:00,0,,0,5,15,Conquista de la Sierra,Cáceres
+1645,2024-02-29T00:00:00,0,,0,3,17,Losar de la Vera,Cáceres
+1646,2024-02-29T00:00:00,0,,0,4,17,Madrigal de la Vera,Cáceres
+1647,2024-02-29T00:00:00,0,,0,4,15,Pasarón de la Vera,Cáceres
+1648,2024-02-29T00:00:00,0,,0,5,15,Malpartida de Plasencia,Cáceres
+1649,2024-02-29T00:00:00,0,,0,3,16,Torremocha,Cáceres
+1650,2024-02-29T00:00:00,0,,0,4,16,Torremenga,Cáceres
+1651,2024-02-29T00:00:00,0,,0,3,17,Valdeobispo,Cáceres
+1652,2024-02-29T00:00:00,0,,0,4,17,Majadas,Cáceres
+1653,2024-02-29T00:00:00,0,,0,3,15,Palomero,Cáceres
+1654,2024-02-29T00:00:00,0,,0,4,14,Madroñera,Cáceres
+1655,2024-02-29T00:00:00,0,,0,4,16,Torreorgaz,Cáceres
+1656,2024-02-29T00:00:00,0,,0,4,13,Pedroso de Acim,Cáceres
+1657,2024-02-29T00:00:00,0,,0,4,17,Torrejón el Rubio,Cáceres
+1658,2024-02-29T00:00:00,0,,0,2,17,Madrigalejo,Cáceres
+1659,2024-02-29T00:00:00,0,,0,5,15,Peraleda de San Román,Cáceres
+1660,2024-02-29T00:00:00,0,,0,4,15,Cilleros,Cáceres
+1661,2024-02-29T00:00:00,0,,0,4,17,Peraleda de la Mata,Cáceres
+1662,2024-02-29T00:00:00,0,,0,4,16,Perales del Puerto,Cáceres
+1663,2024-02-29T00:00:00,0,,0,4,16,Torrejoncillo,Cáceres
+1664,2024-02-29T00:00:00,0,,0,4,16,Pescueza,Cáceres
+1665,2024-02-29T00:00:00,0,,0,3,14,"Pesga, La",Cáceres
+1666,2024-02-29T00:00:00,0,,0,3,13,"Torno, El",Cáceres
+1667,2024-02-29T00:00:00,0,,0,4,18,Rosalejo,Cáceres
+1668,2024-02-29T00:00:00,0,,0,2,12,Tornavacas,Cáceres
+1669,2024-02-29T00:00:00,0,,0,4,18,Pueblonuevo de Miramontes,Cáceres
+1670,2024-02-29T00:00:00,0,,0,4,17,Valdecañas de Tajo,Cáceres
+1671,2024-02-29T00:00:00,0,,0,3,15,Oliva de Plasencia,Cáceres
+1672,2024-02-29T00:00:00,0,,0,2,14,Nuñomoral,Cáceres
+1673,2024-02-29T00:00:00,0,,0,3,18,Tiétar,Cáceres
+1674,2024-02-29T00:00:00,0,,0,4,15,Membrío,Cáceres
+1675,2024-02-29T00:00:00,0,,0,2,12,Navezuelas,Cáceres
+1676,2024-02-29T00:00:00,0,,0,5,15,Navas del Madroño,Cáceres
+1677,2024-02-29T00:00:00,0,,0,4,15,Navalvillar de Ibor,Cáceres
+1678,2024-02-29T00:00:00,0,,0,3,17,Escurial,Cáceres
+1679,2024-02-29T00:00:00,0,,0,3,16,Cuacos de Yuste,Cáceres
+1680,2024-02-29T00:00:00,0,,0,1,17,Navalmoral de la Mata,Cáceres
+1681,2024-02-29T00:00:00,0,,0,4,17,Riolobos,Cáceres
+1682,2024-02-29T00:00:00,0,,0,4,16,Malpartida de Cáceres,Cáceres
+1683,2024-02-29T00:00:00,0,,0,2,13,Robledillo de Gata,Cáceres
+1684,2024-02-29T00:00:00,0,,0,3,15,Robledillo de Trujillo,Cáceres
+1685,2024-02-29T00:00:00,0,,0,3,17,Robledillo de la Vera,Cáceres
